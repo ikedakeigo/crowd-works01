@@ -1,0 +1,3465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: design-plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-13 01:44+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mono-lab <mail@mono-lab.net>\n"
+"Language-Team: design plus\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:9
+msgid "The WordPress theme \"Ankle\" was developed with the concept of a minimal interior shop. As soon as you think of it, you can build your online shop quickly. Its simple, unassertive design puts your products in the spotlight."
+msgstr "WordPressテーマ「Ankle（アンクル）」は、ミニマルなインテリアショップをイメージして開発されました。思い立ったらすぐにオンラインストアを構築でき、シンプルで主張しないデザインが、商品にスポットライトを浴びせます。"
+
+#: functions.php:777 functions.php:779 functions.php:782
+msgid "REPLY"
+msgstr "返信"
+
+#: functions.php:784
+msgid "QUOTE"
+msgstr "引用"
+
+#: functions.php:785
+msgid "EDIT"
+msgstr "編集"
+
+#: functions.php:791
+msgid "Your comment is awaiting moderation."
+msgstr "このコメントは管理者の承認を待っています。"
+
+#: functions.php:559
+#, php-format
+msgid ""
+"Recommend image size. Width:%1$spx, Height:%2$spx.<br>This image will be "
+"used in search result and OGP tag."
+msgstr ""
+"推奨画像サイズ：横幅%1$spx、縦幅%2$spx<br>この画像は検索結果やOGPタグで利用さ"
+"れます。"
+
+#: functions.php:495 functions.php:496 functions.php:497
+msgid "Footer menu"
+msgstr "フッターメニュー"
+
+#: functions.php:37
+msgid "Cookie has been deleted"
+msgstr "Cookieは削除されました"
+
+#: functions.php:38
+msgid "Settings Saved Successfully"
+msgstr "データの保存が完了しました"
+
+#: functions.php:39
+msgid "Can not save data. Please try again"
+msgstr "データを保存する事ができませんでした。もう一度お試しください。"
+
+#: functions.php:40
+msgid ""
+"Your changes on the current tab have not been saved.\n"
+"To stay on the current tab so that you can save your changes, click Cancel."
+msgstr ""
+"現在表示しているテーマオプションメニューのデータが保存されていません。\n"
+"データを保存するためにはキャンセルボタンをクリックしてこのメッセージを閉じた"
+"後に、\n"
+"青色の「設定を保存」ボタンをクリックしてデータを保存してください。"
+
+#: functions.php:41
+msgid "Are you sure you want to delete this content?"
+msgstr "このコンテンツを削除してもよろしいでしょうか？"
+
+#: functions.php:42
+msgid ""
+"<span>You can display image by content width when you displaying border "
+"around the content on LP page.</span>"
+msgstr ""
+"<span>ランディングページ用固定ページでコンテンツに枠線を表示している際、横幅"
+"851px以上の画像を枠に合わせてワイドに表示することができます。</span>"
+
+#: functions.php:47
+msgid "Please select image"
+msgstr "画像を選択してください"
+
+#: functions.php:48
+msgid "Use this image"
+msgstr "この画像を利用する"
+
+#: functions.php:49
+msgid "Please select MP4 file"
+msgstr "MP4ファイルを選択してください"
+
+#: functions.php:50
+msgid "Use this MP4 file"
+msgstr "このMP4ファイルを利用する"
+
+#: functions.php:51
+msgid "Save"
+msgstr "保存"
+
+#: functions.php:270
+msgid "Default style"
+msgstr "通常のスタイル"
+
+#: functions.php:271
+msgid "No border"
+msgstr "枠線無し"
+
+#: functions.php:272
+msgid "Display only horizontal border"
+msgstr "横線のみ表示する"
+
+#: functions.php:843 functions.php:894 functions.php:941
+msgid "Add New"
+msgstr "新しく追加"
+
+#: functions.php:844 functions.php:895 functions.php:942
+msgid "Add New Item"
+msgstr "新しく追加"
+
+#: functions.php:845 functions.php:896 functions.php:943
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:847 functions.php:898 functions.php:945
+msgid "View Item"
+msgstr "アイテムを見る"
+
+#: functions.php:848 functions.php:899 functions.php:946
+msgid "Search Items"
+msgstr "検索する"
+
+#: functions.php:849 functions.php:900 functions.php:947
+msgid "Not Found"
+msgstr "見つかりませんでした"
+
+#: functions.php:850 functions.php:901 functions.php:948
+msgid "Not found in trash"
+msgstr "ゴミ箱には見つかりませんでした"
+
+#: admin/inc/admin_parts.php:13
+msgid "Save Changes"
+msgstr "設定を保存"
+
+#: admin/inc/admin_parts.php:13
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/inc/admin_parts.php:13 woocommerce/myaccount/profile-image.php:16
+msgid "Select Image"
+msgstr "画像を選択する"
+
+#: admin/inc/admin_parts.php:13
+msgid "Remove Image"
+msgstr "画像を削除する"
+
+#: admin/inc/admin_parts.php:17
+msgid ""
+"Description will be displayed here.<br>Description will be displayed here."
+msgstr ""
+"ここに説明文が表示されます。ここに説明文が表示されます。ここに説明文が表示さ"
+"れます。<br />ここに説明文が表示されます。ここに説明文が表示されます。"
+
+#: admin/inc/admin_parts.php:17
+msgid "Blog"
+msgstr "ブログ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Common setting"
+msgstr "共通設定"
+
+#: admin/inc/admin_parts.php:25
+msgid "Name of content"
+msgstr "コンテンツの名前"
+
+#: admin/inc/admin_parts.php:25
+msgid "Archive page"
+msgstr "アーカイブページ"
+
+#: admin/inc/admin_parts.php:25
+msgid "Header"
+msgstr "ヘッダー"
+
+#: admin/inc/admin_parts.php:25
+msgid "Headline"
+msgstr "見出し"
+
+#: admin/inc/admin_parts.php:25
+msgid "Sub headline"
+msgstr "小見出し"
+
+#: admin/inc/admin_parts.php:25
+msgid "Description"
+msgstr "説明文"
+
+#: admin/inc/admin_parts.php:25
+msgid "Description (mobile)"
+msgstr "説明文（モバイルサイズ時）"
+
+#: admin/inc/admin_parts.php:25
+msgid "Article list"
+msgstr "記事一覧"
+
+#: admin/inc/admin_parts.php:25
+msgid "Number of article to display per page"
+msgstr "1ページに表示する記事の数"
+
+#: admin/inc/admin_parts.php:25
+msgid "Font size of title"
+msgstr "タイトルの文字サイズ"
+
+#: admin/inc/admin_parts.php:25
+msgid "Article title area"
+msgstr "記事のタイトルエリア"
+
+#: admin/inc/admin_parts.php:25
+msgid "Display setting"
+msgstr "表示設定"
+
+#: admin/inc/admin_parts.php:24
+msgid "Related post"
+msgstr "関連記事"
+
+#: admin/inc/admin_parts.php:24
+msgid "This name will also be used in breadcrumb link."
+msgstr "この名前はパンくずリンク等で利用されます。"
+
+#: admin/inc/admin_parts.php:24
+msgid "Alternate image to be displayed when featured image is not registered"
+msgstr "アイキャッチ未設定の場合に表示する画像"
+
+#: admin/inc/admin_parts.php:24
+msgid "If you set image here, you can display alternative image for article which featured image is not set."
+msgstr "ここに画像を登録しておくと、アイキャッチを設定していない記事にも代替画像としてアイキャッチを表示できます。"
+
+#: admin/inc/admin_parts.php:24
+msgid "This image will be applied with priority over the \"Alternate image to be displayed when featured image is not registered\" option in the basic setting menu."
+msgstr "この設定は、基本設定内の「アイキャッチ未設定の場合に表示する画像」より優先されます。"
+
+#: admin/inc/admin_parts.php:24
+msgid "Font color"
+msgstr "文字色"
+
+#: admin/inc/admin_parts.php:24
+msgid "Background color"
+msgstr "背景色"
+
+#: admin/inc/admin_parts.php:24
+msgid "Background color on mouseover"
+msgstr "カーソルを合わせた時の背景色"
+
+#: admin/inc/admin_parts.php:24
+msgid "Border color"
+msgstr "線の色"
+
+#: admin/inc/admin_parts.php:24
+msgid "Menu"
+msgstr "メニュー"
+
+#: admin/inc/admin_parts.php:24 admin/inc/options.php:767
+msgid "Catchphrase"
+msgstr "キャッチフレーズ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Catchphrase (mobile)"
+msgstr "キャッチフレーズ（モバイルサイズ時）"
+
+#: admin/inc/admin_parts.php:24
+msgid "Font size"
+msgstr "文字サイズ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Font type"
+msgstr "フォントタイプ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Text align"
+msgstr "文字の整列"
+
+#: admin/inc/admin_parts.php:24
+msgid "Font weight"
+msgstr "文字の太さ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Content"
+msgstr "コンテンツ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/inc/admin_parts.php:24
+msgid "Basic"
+msgstr "基本"
+
+#: admin/inc/admin_parts.php:24
+msgid "Button"
+msgstr "ボタン"
+
+#: admin/inc/admin_parts.php:24
+msgid "Button type"
+msgstr "タイプ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Button label"
+msgstr "ボタンのラベル"
+
+#: admin/inc/admin_parts.php:24
+msgid "Label"
+msgstr "ラベル"
+
+#: admin/inc/admin_parts.php:24
+msgid "Display button"
+msgstr "ボタンを表示する"
+
+#: admin/inc/admin_parts.php:24
+msgid "Open link in new window"
+msgstr "リンク先のURLを新しいタブで表示する"
+
+#: admin/inc/admin_parts.php:24
+msgid "Background"
+msgstr "背景"
+
+#: admin/inc/admin_parts.php:24
+msgid "Background image"
+msgstr "背景画像"
+
+#: admin/inc/admin_parts.php:24
+msgid "Background image (mobile)"
+msgstr "背景画像（モバイルサイズ時）"
+
+#: admin/inc/admin_parts.php:24
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: admin/inc/admin_parts.php:24
+msgid "Color of overlay"
+msgstr "オーバーレイの色"
+
+#: admin/inc/admin_parts.php:24
+msgid "Transparency of overlay"
+msgstr "オーバーレイの透過率"
+
+#: admin/inc/admin_parts.php:24 admin/inc/options.php:264 admin/inc/basic.php:389
+#: admin/inc/header.php:152
+msgid "Image"
+msgstr "画像"
+
+#: admin/inc/admin_parts.php:24
+msgid ""
+"Please specify the number of 0 from 1.0. Overlay color will be more "
+"transparent as the number is small."
+msgstr ""
+"0（完全に透明）～1.0（完全に不透明）までの数値を入力してください。<br>数字が"
+"小さくなるほど、より透明になります。（入力例：0.5）"
+
+#: admin/inc/admin_parts.php:24
+msgid "If you want to display different text on mobile size, please fill in this field."
+msgstr "モバイルサイズ時に異なるテキストを表示したい場合にご記入ください。"
+
+#: admin/inc/admin_parts.php:24
+msgid "Delete?"
+msgstr "削除しますか？"
+
+#: admin/inc/admin_parts.php:24
+msgid "Delete item"
+msgstr "アイテムを削除する"
+
+#: admin/inc/admin_parts.php:24 functions.php:733
+msgid "New item"
+msgstr "新しいアイテム"
+
+#: admin/inc/admin_parts.php:24
+msgid "Add item"
+msgstr "新しいアイテムを追加する"
+
+#: admin/inc/admin_parts.php:24
+msgid "Item"
+msgstr "アイテム"
+
+#: admin/inc/admin_parts.php:293
+msgid "No background color"
+msgstr "背景色を使わない"
+
+#: admin/inc/blog.php:96 admin/inc/news.php:97 admin/inc/basic.php:252
+#: admin/inc/front_page.php:289 admin/inc/front_page.php:293
+#: admin/inc/seo.php:153
+#, php-format
+msgid "Recommend image size. Width:%1$spx, Height:%2$spx."
+msgstr "推奨画像サイズ：横幅%1$spx、縦幅%2$spx"
+
+
+
+#: admin/inc/options.php:589
+msgid "Display"
+msgstr "表示する"
+
+#: admin/inc/options.php:593 admin/inc/options.php:85
+msgid "Hide"
+msgstr "表示しない"
+
+#: admin/inc/options.php:26
+msgid "Meiryo"
+msgstr "メイリオ"
+
+#: admin/inc/options.php:27
+msgid "YuGothic"
+msgstr "游ゴシック"
+
+#: admin/inc/options.php:28
+msgid "YuMincho"
+msgstr "游明朝"
+
+#: admin/inc/options.php:236
+msgid "Align left"
+msgstr "左寄せ"
+
+#: admin/inc/options.php:237
+msgid "Align center"
+msgstr "中央寄せ"
+
+#: admin/inc/options.php:238
+msgid "Align right"
+msgstr "右寄せ"
+
+#: admin/inc/options.php:87
+msgid "Fade In"
+msgstr "フェードイン"
+
+#: admin/inc/options.php:88
+msgid "Slide In"
+msgstr "スライドイン"
+
+#: admin/inc/options.php:369　admin/inc/options.php:423 admin/inc/options.php:396
+msgid "Normal"
+msgstr "普通"
+
+#: admin/inc/options.php:397
+msgid "Bold"
+msgstr "太い"
+
+#: admin/inc/options.php:401
+msgid "Left"
+msgstr "左"
+
+#: admin/inc/options.php:402
+msgid "Top"
+msgstr "上"
+
+#: admin/inc/options.php:403
+msgid "Bottom"
+msgstr "下"
+
+#: admin/inc/options.php:404
+msgid "Right"
+msgstr "右"
+
+#: admin/inc/options.php:408
+msgid "Solid"
+msgstr "実線"
+
+#: admin/inc/options.php:409
+msgid "Dot"
+msgstr "ドット"
+
+#: admin/inc/options.php:410
+msgid "Double"
+msgstr "２重線"
+
+#: admin/inc/options.php:370
+msgid "Wide"
+msgstr "広い"
+
+#: admin/inc/options.php:370
+msgid "Narrow"
+msgstr "狭い"
+
+#: admin/inc/options.php:418　admin/inc/options.php:292
+msgid "Ghost"
+msgstr "ゴースト"
+
+#: admin/inc/options.php:419 admin/inc/options.php:293
+msgid "Reverse"
+msgstr "リバース"
+
+#: admin/inc/options.php:419 admin/inc/options.php:293
+msgid "General"
+msgstr "ノーマル"
+
+#: admin/inc/options.php:421
+msgid "Square"
+msgstr "四角"
+
+#: admin/inc/options.php:422
+msgid "Rounded"
+msgstr "角丸"
+
+#: admin/inc/options.php:423
+msgid "Pill"
+msgstr "楕円"
+
+#: admin/inc/options.php:429
+msgid "Small"
+msgstr "小"
+
+#: admin/inc/options.php:430
+msgid "Medium"
+msgstr "中"
+
+#: admin/inc/options.php:431
+msgid "Large"
+msgstr "大"
+
+#: admin/inc/options.php:436
+msgid "Swipe"
+msgstr "スワイプ"
+
+#: admin/inc/options.php:437
+msgid "Diagonal swipe"
+msgstr "斜めスワイプ"
+
+#: admin/inc/options.php:693
+msgid "Not use"
+msgstr "使用しない"
+
+#: admin/inc/options.php:369
+msgid "Main content width"
+msgstr "コンテンツ幅"
+
+#: admin/inc/options.php:369
+msgid "Window width"
+msgstr "フル幅"
+
+#: admin/inc/options.php:701
+msgid "Date"
+msgstr "日付"
+
+#: admin/inc/options.php:705 widget/post_slider.php:134
+#: widget/styled-post-list.php:128 admin/inc/front_page.php:640
+msgid "Random"
+msgstr "ランダム"
+
+#: admin/inc/options.php:468
+msgid "Type1"
+msgstr "タイプ1"
+
+#: admin/inc/options.php:472
+msgid "Type2"
+msgstr "タイプ2"
+
+#: admin/inc/options.php:476
+msgid "Type3"
+msgstr "タイプ3"
+
+#: admin/inc/options.php:512 admin/inc/marketing.php:296
+msgid "Random display"
+msgstr "ランダム表示"
+
+#: admin/inc/options.php:516
+msgid "Hidden"
+msgstr "非表示"
+
+#: admin/inc/options.php:711
+msgid "Leave"
+msgstr "有り"
+
+#: admin/inc/options.php:715
+msgid "Eliminate"
+msgstr "無し"
+
+#: admin/inc/options.php:432
+msgid "Yes"
+msgstr "はい"
+
+#: admin/inc/options.php:433
+msgid "No"
+msgstr "いいえ"
+
+#: admin/inc/options.php:776
+msgid "Load asynchronously"
+msgstr "その場で読み込んで表示"
+
+#: admin/inc/options.php:781
+msgid "Use pagination"
+msgstr "ページを切り替えて表示"
+
+#: admin/inc/options.php:794 wc/ankle.php:153
+msgid "yen"
+msgstr "円"
+
+#: admin/inc/options.php:327
+msgid "Hide header image"
+msgstr "ヘッダー画像を使わない"
+
+#: admin/inc/options.php:332
+msgid "Display at normal height"
+msgstr "通常の高さで表示"
+
+#: admin/inc/options.php:337
+msgid "Full screen display"
+msgstr "全画面で表示"
+
+#: admin/inc/options.php:160 admin/inc/options.php:161
+#: admin/inc/options.php:162 admin/inc/options.php:163
+#: admin/inc/options.php:164 admin/inc/options.php:165
+#: admin/inc/options.php:166 admin/inc/options.php:167
+#: admin/inc/options.php:168 admin/inc/options.php:169
+#: admin/inc/options.php:170 admin/inc/options.php:171
+#: admin/inc/options.php:172 admin/inc/options.php:173
+#: admin/inc/options.php:174
+#, php-format
+msgid "%s second"
+msgstr "%s秒"
+
+#: admin/inc/options.php:188
+msgid "Use text for logo"
+msgstr "サイトタイトルをテキストで表示"
+
+#: admin/inc/options.php:188
+msgid "Use image for logo"
+msgstr "画像を使う"
+
+#: admin/inc/options.php:652
+msgid "Dark color"
+msgstr "ダークカラー"
+
+#: admin/inc/options.php:657
+msgid "Light color"
+msgstr "ライトカラー"
+
+#: admin/inc/options.php:65
+msgid "Type1 (color)"
+msgstr "ボタンタイプ１（カラフル）"
+
+#: admin/inc/options.php:66
+msgid "Type2 (mono)"
+msgstr "ボタンタイプ２（モノクロ）"
+
+#: admin/inc/options.php:67
+msgid "Type3 (4 column - color)"
+msgstr "ボタンタイプ３（カラム幅＋カラフル）"
+
+#: admin/inc/options.php:68
+msgid "Type4 (4 column - mono)"
+msgstr "ボタンタイプ４（カラム幅＋モノクロ）"
+
+#: admin/inc/options.php:69
+msgid "Type5 (official design)"
+msgstr "ボタンタイプ５（公式ボタン）"
+
+#: admin/inc/options.php:14
+msgid "No animation"
+msgstr "アニメーションを使わない"
+
+#: admin/inc/options.php:18
+msgid "Left to Right"
+msgstr "右方向"
+
+#: admin/inc/options.php:19
+msgid "Right to Left"
+msgstr "左方向"
+
+#: admin/inc/options.php:230
+msgid "Monochrome"
+msgstr "モノクロ"
+
+#: admin/inc/options.php:747
+msgid "Circle icon"
+msgstr "サークル"
+
+#: admin/inc/options.php:752
+msgid "Square icon"
+msgstr "スクエア"
+
+#: admin/inc/options.php:757
+msgid "Dot circle icon"
+msgstr "ドットサークル"
+
+#: admin/inc/options.php:775
+msgid "All pages"
+msgstr "全てのページ"
+
+#: admin/inc/options.php:780
+msgid "Only once"
+msgstr "１度だけ表示"
+
+#: admin/inc/options.php:781
+msgid "Every time"
+msgstr "毎回表示"
+
+#: admin/inc/options.php:389
+msgid "Description tab"
+msgstr "説明"
+
+#: admin/inc/options.php:389
+msgid "Additional information tab"
+msgstr "追加情報"
+
+#: admin/inc/options.php:389
+msgid "Reviews tab"
+msgstr "レビュー"
+
+#: admin/inc/basic.php:25 admin/inc/header.php:174 admin/inc/front_page.php:518
+#: admin/inc/quicktag.php:225 admin/inc/quicktag.php:297 admin/inc/quicktag.php:342
+msgid "Basic setting"
+msgstr "基本設定"
+
+#: admin/inc/basic.php:129 admin/inc/header.php:180
+msgid "Color"
+msgstr "カラー"
+
+#: admin/inc/basic.php:105
+msgid "The page you are looking for are not found"
+msgstr "お探しのページは見つかりませんでした"
+
+#: admin/inc/basic.php:133
+msgid "Accent color will be used mostly in navigation menu."
+msgstr "アクセントカラーは主に、ナビゲーションメニューに利用されます。"
+
+#: admin/inc/basic.php:137
+msgid "Accent color"
+msgstr "アクセントカラー"
+
+#: admin/inc/basic.php:138
+msgid "Single page text link color"
+msgstr "記事本文内のリンク文字色"
+
+#: admin/inc/basic.php:139
+msgid "Single page text link color on mouseover"
+msgstr "カーソルを合わせた時の記事本文内のリンク文字色"
+
+#: admin/inc/basic.php:152
+msgid "Font"
+msgstr "フォント"
+
+#: admin/inc/basic.php:157
+msgid "This settings will be applied to most of the headline and catchphrase."
+msgstr "この設定は見出しやキャッチフレーズに適用されます。"
+
+#: admin/inc/basic.php:164
+msgid "Post contet"
+msgstr "記事本文"
+
+#: admin/inc/basic.php:166
+msgid "This setting will be used in post contents and descriptions."
+msgstr "この設定は記事本文や説明文などに適用されます。"
+
+#: admin/inc/basic.php:262
+msgid "Share button and SNS icon"
+msgstr "シェアボタン・SNSアイコン"
+
+#: admin/inc/basic.php:267
+msgid "Share button"
+msgstr "シェアボタン"
+
+#: admin/inc/basic.php:271
+#, php-format
+msgid "Share button will be displayed in blog article and %s article."
+msgstr "シェアボタンはブログ記事と%s記事に表示されます。"
+
+#: admin/inc/basic.php:272
+msgid "Display position can be set from each post type."
+msgstr "表示・非表示は、各投稿タイプごとに設定可能です。"
+
+#: admin/inc/basic.php:275
+msgid "Share button design"
+msgstr "シェアボタンのデザイン"
+
+#: admin/inc/basic.php:290
+msgid "Display twitter button"
+msgstr "Twitter"
+
+#: admin/inc/basic.php:291
+msgid "Display facebook like button -Button type 5 (Default button) only"
+msgstr "Facebookいいね ※ボタンタイプ5（公式ボタン）選択時のみ表示します。"
+
+#: admin/inc/basic.php:292
+msgid "Display facebook share button"
+msgstr "Facebookシェア"
+
+#: admin/inc/basic.php:293
+msgid "Display hatena button"
+msgstr "はてなブックマーク"
+
+#: admin/inc/basic.php:294
+msgid "Display pocket button"
+msgstr "Pocket"
+
+#: admin/inc/basic.php:295
+msgid "Display feedly button"
+msgstr "Feedly"
+
+#: admin/inc/basic.php:296
+msgid "Display rss button"
+msgstr "RSS"
+
+#: admin/inc/basic.php:297
+msgid "Display pinterest button"
+msgstr "Pinterest"
+
+#: admin/inc/basic.php:300
+msgid "Setting for the twitter button"
+msgstr "Twitterボタンの設定"
+
+#: admin/inc/basic.php:301
+msgid "Set of twitter account. (ex.tcd_jp)"
+msgstr ""
+"※Tweetボタンを表示する場合、Twitterアカウント名(@なし)を設定してください。"
+"（例：tcd_jp）"
+
+#: admin/inc/basic.php:316
+msgid "SNS icon design"
+msgstr "SNSアイコンのデザイン"
+
+#: admin/inc/basic.php:321
+msgid "Monochrome (TCD ver)"
+msgstr "モノクロ（TCDバージョン）"
+
+#: admin/inc/basic.php:328
+msgid "Official color"
+msgstr "公式準拠カラー"
+
+#: admin/inc/basic.php:335
+msgid "The URL will be reflected on the left side of the site footer and in the contributor information that can be displayed at the bottom of the blog post."
+msgstr "サイトフッターの左側と、ブログ記事下部に表示可能な投稿者情報に反映されます。"
+
+#: admin/inc/basic.php:326
+msgid "Please set the URL from \"Footer > SNS icons\" and <a href=\"%s\">\"Users\"</a>"
+msgstr "「フッター＞SNSアイコン」と「<a href=\"%s\">ユーザープロフィール</a>」よりURLを設定してください。"
+
+#: admin/inc/basic.php:183
+msgid "Thumbnail and hover animation"
+msgstr "サムネイルとホバーアニメーション"
+
+#: admin/inc/basic.php:185
+msgid "Hover effect type"
+msgstr "ホバーエフェクトのタイプ"
+
+#: admin/inc/basic.php:188
+msgid "You can select the thumbnail hover effect from 4 types."
+msgstr "サムネイルのホバーエフェクトを4タイプから選択できます。"
+
+#: admin/inc/basic.php:199 admin/inc/options.php:10
+msgid "Zoom in"
+msgstr "ズームイン"
+
+#: admin/inc/basic.php:201
+msgid "Magnification rate"
+msgstr "拡大率"
+
+#: admin/inc/basic.php:206 admin/inc/options.php:11
+msgid "Zoom out"
+msgstr "ズームアウト"
+
+#: admin/inc/basic.php:208
+msgid "Reduction rate"
+msgstr "縮小率"
+
+#: admin/inc/basic.php:213 admin/inc/options.php:12
+msgid "Slide"
+msgstr "スライド"
+
+#: admin/inc/basic.php:216 admin/inc/protect.php:83
+msgid "Direction"
+msgstr "方向"
+
+#: admin/inc/basic.php:225 admin/inc/basic.php:239
+msgid "Opacity of background color"
+msgstr "背景色の透過率"
+
+#: admin/inc/basic.php:235 admin/inc/options.php:13　admin/inc/options.php:435
+msgid "Fade"
+msgstr "フェード"
+
+#: admin/inc/basic.php:360
+msgid "Loading screen"
+msgstr "ロード画面"
+
+#: admin/inc/basic.php:364
+msgid "Display loading screen"
+msgstr "ロード画面を表示する"
+
+#: admin/inc/basic.php:369
+msgid "You can set the load screen displayed during page transition."
+msgstr ""
+"ページ遷移時にデータ読み込み中の状態が見えないように表示させておくロード画面"
+"（読込中を示すロードアイコンを表示）の設定を行います。"
+
+#: admin/inc/basic.php:376
+msgid "Icon design"
+msgstr "アイコンのデザイン"
+
+#: admin/inc/basic.php:378
+msgid "Icon color"
+msgstr "アイコンのカラー"
+
+#: admin/inc/basic.php:386 admin/inc/header.php:110
+msgid "If you have uploaded a logo image for the Retina display, please select \"Yes\" for the radio button below."
+msgstr "レティナディスプレイ用のロゴ画像をアップロードした場合は、以下のラジオボタンで「はい」をお選びください。"
+
+#: admin/inc/basic.php:391
+msgid "Image (mobile)"
+msgstr "画像（モバイルサイズ時）"
+
+#: admin/inc/basic.php:411
+msgid "Display pages"
+msgstr "表示するページ"
+
+#: admin/inc/basic.php:412
+msgid "Display times"
+msgstr "表示回数"
+
+#: admin/inc/basic.php:551
+msgid "404 page"
+msgstr "404ページ"
+
+#: admin/inc/basic.php:570
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: functions/custom_css.php:7
+msgid "Custom CSS for this page"
+msgstr "カスタムCSS（このページのみに適用されます）"
+
+#: admin/inc/basic.php:573 functions/custom_css.php:30
+msgid ""
+"This css will be displayed inside &lt;head&gt; tag.<br />You don't need to "
+"enter &lt;style&gt; tag in this field."
+msgstr ""
+"以下のCSSは&lt;head&gt;タグ内に出力されます。<br />&lt;style&gt;タグを入力す"
+"る必要はございません。"
+
+#: admin/inc/basic.php:574 functions/custom_css.php:31
+msgid "Example:<br><strong>.custom_css { font-size:12px; }</strong>"
+msgstr "記入例：.custom_css { font-size:12px; }"
+
+#: admin/inc/basic.php:587
+msgid "Custom script"
+msgstr "カスタムスクリプト"
+
+#: functions/custom_script.php:7
+msgid "Custom script for this page"
+msgstr "カスタムスクリプト（このページのみに適用されます）"
+
+#: admin/inc/basic.php:590 functions/custom_script.php:30
+msgid "This script will be displayed inside &lt;head&gt; tag."
+msgstr "&lt;head&gt;タグ内の最後に出力されます。"
+
+#: admin/inc/front_page.php:206
+msgid "Header slider"
+msgstr "ヘッダースライダー"
+
+#: admin/inc/front_page.php:206
+msgid "Display header slider"
+msgstr "ヘッダースライダーを表示する"
+
+#: admin/inc/front_page.php:215
+msgid ""
+"Click add item button to start this option.<br />You can change order by "
+"dragging each headline of option field."
+msgstr ""
+"アイテムを追加するボタンをクリックして入力欄を追加してください。<br />各アイ"
+"テムの見出しをドラッグする事によってアイテムを入れ替え、任意の順番で表示する"
+"事ができます。"
+
+#: admin/inc/front_page.php:232 #: functions/page_cf.php:173
+msgid "Background settings"
+msgstr "背景の設定"
+
+#: admin/inc/front_page.php:233 functions/page_cf.php:172
+msgid "Text settings"
+msgstr "テキストの設定"
+
+#: admin/inc/front_page.php:234
+msgid "Link settings"
+msgstr "リンクの設定"
+
+#: admin/inc/front_page.php:243
+msgid "Background type"
+msgstr "背景のタイプ"
+
+#: admin/inc/front_page.php:251 admin/inc/options.php:265
+msgid "Video"
+msgstr "動画"
+
+#: admin/inc/front_page.php:253
+msgid "Please upload MP4 format file."
+msgstr "MP4形式の動画ファイルをアップロードしてください。"
+
+#: admin/inc/front_page.php:254 admin/inc/front_page.php:277
+msgid ""
+"Web browser takes few second to load the data of video so we recommend to "
+"use loading screen if you want to display video."
+msgstr ""
+"注意点：ウェブブラウザは動画のデータをロードするためにコンマ数秒の時間を要し"
+"ます。<br />ヘッダーコンテンツに動画を表示する際は、「サイト基本設定」メ"
+"ニューにあるの「ロード画面」を表示する事をお勧めします。"
+
+#: admin/inc/front_page.php:261
+msgid "Uploaded MP4 file"
+msgstr "アップロードされたMP4ファイル"
+
+#: admin/inc/front_page.php:266
+msgid "Select MP4 file"
+msgstr "MP4ファイルを選択する"
+
+#: admin/inc/front_page.php:267
+msgid "Remove MP4 file"
+msgstr "MP4ファイルを削除する"
+
+#: admin/inc/front_page.php:267
+msgid "Please enter YouTube URL."
+msgstr "表示したいYouTubeの動画のURLを入力してください。"
+
+#: admin/inc/front_page.php:285
+msgid ""
+"If the mobile device can't play video this image will be displayed instead."
+msgstr ""
+"モバイル端末が動画を再生できない場合、以下の画像が代わりに表示されます。"
+
+#: admin/inc/front_page.php:296
+msgid "Link type"
+msgstr "リンクのタイプ"
+
+#: admin/inc/front_page.php:340
+msgid "Background link"
+msgstr "背景リンク"
+
+#: admin/inc/front_page.php:340
+msgid "Button design"
+msgstr "ボタンのデザイン"
+
+#: admin/inc/front_page.php:343　admin/inc/quicktag.php:300
+msgid "Shape"
+msgstr "シェイプ"
+
+#: admin/inc/front_page.php:344 admin/inc/quicktag.php:301
+msgid "Size"
+msgstr "サイズ"
+
+#: admin/inc/front_page.php:345 admin/inc/quicktag.php:302
+msgid "Mouseover animation"
+msgstr "ホバーアニメーション"
+
+#: admin/inc/front_page.php:346 admin/inc/quicktag.php:303
+msgid "Color scheme"
+msgstr "カラー"
+
+#: admin/inc/front_page.php:346 admin/inc/quicktag.php:304
+msgid "Color scheme on mouseover"
+msgstr "ホバーカラー"
+
+#: admin/inc/front_page.php:549
+msgid "Background animation (Image only)"
+msgstr "背景のアニメーション（画像限定）"
+
+#: admin/inc/front_page.php:550
+msgid "Contents animation"
+msgstr "テキストアニメーション"
+
+#: admin/inc/front_page.php:551
+msgid "Slider speed"
+msgstr "スライダーが切り替わる時間"
+
+#: admin/inc/front_page.php:550
+msgid "Slider width"
+msgstr "スライダーの横幅"
+
+#: admin/inc/front_page.php:475
+msgid "News ticker"
+msgstr "ニュースティッカー"
+
+#: admin/inc/front_page.php:479
+msgid "Display news ticker"
+msgstr "ニュースティッカーを表示する"
+
+#: admin/inc/front_page.php:529
+msgid "Load 5 articles by specifying the article type and sort order."
+msgstr "記事タイプと並び順を指定して5件分読み込みます。"
+
+#: admin/inc/front_page.php:531
+msgid "Main contents"
+msgstr "メインコンテンツ"
+
+#: admin/inc/front_page.php:514
+msgid "Post type"
+msgstr "記事のタイプ"
+
+#: admin/inc/front_page.php:493 widget/post_slider.php:131
+#: widget/styled-post-list.php:125
+msgid "Post order"
+msgstr "記事の並び順"
+
+#: admin/inc/front_page.php:511
+msgid "Free space"
+msgstr "フリースペース"
+
+#: admin/inc/front_page.php:515
+msgid "Display free space"
+msgstr "フリースペースを表示する"
+
+#: admin/inc/front_page.php:515
+msgid "Vertical margin"
+msgstr "上下の余白"
+
+#: admin/inc/front_page.php:523
+msgid "Editor"
+msgstr "エディター"
+
+#: admin/inc/front_page.php:599
+msgid "Blog carousel"
+msgstr "ブログカルーセル"
+
+#: admin/inc/front_page.php:603
+msgid "Display blog carousel"
+msgstr "ブログカルーセルを表示する"
+
+#: admin/inc/front_page.php:635 widget/post-slider.php:112
+#: widget/styled-post-list.php:102 functions/admin_column.php:33
+msgid "Article type"
+msgstr "記事のタイプ"
+
+#: admin/inc/front_page.php:622 widget/post-slider.php:114
+#: widget/styled-post-list.php:104
+msgid "All post"
+msgstr "全ての記事"
+
+#: admin/inc/front_page.php:623 admin/inc/front_page.php:624 admin/inc/front_page.php:625
+#: widget/post-slider.php:115 widget/post-slider.php:116 widget/post-slider.php:117
+#: widget/styled-post-list.php:105 widget/styled-post-list.php:106 widget/styled-post-list.php:107
+#: functions/recommend.php:6 functions/admin_column.php:61 functions/admin_column.php:62
+#: functions/admin_column.php:63
+msgid "Recommend post"
+msgstr "おすすめ記事"
+
+#: functions/quick_edit.php:37 functions/recommend.php:26
+msgid "Show this post for recommend post1"
+msgstr "おすすめ記事1に設定"
+
+#: functions/quick_edit.php:38 functions/recommend.php:27
+msgid "Show this post for recommend post2"
+msgstr "おすすめ記事2に設定"
+
+#: functions/quick_edit.php:39 functions/recommend.php:28
+msgid "Show this post for recommend post3"
+msgstr "おすすめ記事3に設定"
+
+#: functions/admin_column.php:18 admin/inc/news.php:122
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: functions/recommend.php:24
+msgid "This option will be used in widget and blog carousel on the front page."
+msgstr "この設定はウィジェットやトップページのブログカルーセルで利用されます。"
+
+#: admin/inc/front_page.php:664
+msgid "Number of articles to display in the carousel"
+msgstr "カルーセルに表示する記事の数"
+
+#: admin/inc/front_page.php:671
+msgid "The content of the page set in the front page will be reflected."
+msgstr "フロントページに設定している固定ページの本文が反映されます。"
+
+#: admin/inc/front_page.php:671
+msgid "Click here for the page editing screen."
+msgstr "固定ページ編集画面はこちら"
+
+#: admin/inc/front_page.php:682
+msgid "It seems that you have not created a page for the front page yet. Please refer to the following to create and configure it."
+msgstr "まだフロントページ用の固定ページが作成されていないようです。下記を参考に作成と設定を行ってください。"
+
+#: admin/inc/front_page.php:682
+msgid "Setup Manual - Home page display settings"
+msgstr "設定マニュアル - ホームページの表示設定"
+
+#: admin/inc/front_page.php:539
+msgid "Main contents type"
+msgstr "メインコンテンツのタイプ"
+
+#: admin/inc/front_page.php:542
+msgid "TCD Theme Options Main contents"
+msgstr "テーマオプションのメインコンテンツ"
+
+#: admin/inc/front_page.php:545
+msgid "The editor of the page set in the front page"
+msgstr "フロントページに設定している固定ページの本文"
+
+#: admin/inc/front_page.php:545
+msgid "Buttons can be selected from the designs set in Theme Options > Quick Tags > Buttons."
+msgstr "ボタンは、テーマオプション > クイックタグ > ボタンで設定したデザインから選択できます。"
+
+#: admin/inc/front_page.php:656
+msgid "This button is used to move to the post archive page."
+msgstr "投稿一覧ページに遷移するためのボタンです。"
+
+#: admin/inc/front_page.php:318
+msgid "In the case of a background link, the entire slide will be the link."
+msgstr "背景リンクの場合は、スライド全体がリンクになります。"
+
+#: admin/inc/front_page.php:612
+msgid "Display product list"
+msgstr "商品一覧を表示する"
+
+#: admin/inc/front_page.php:628
+msgid "Product type"
+msgstr "商品のタイプ"
+
+#: admin/inc/front_page.php:630
+msgid "All products"
+msgstr "全ての商品"
+
+#: admin/inc/front_page.php:631
+msgid "Featured products"
+msgstr "注目の商品"
+
+#: admin/inc/front_page.php:632
+msgid "Sale products"
+msgstr "セール中の商品"
+
+#: admin/inc/front_page.php:635
+msgid "Product order"
+msgstr "商品の表示順"
+
+#: admin/inc/front_page.php:643
+msgid "Number of products displayed"
+msgstr "表示する商品数"
+
+#: admin/inc/front_page.php:656
+msgid "This button is used to move to the product archive page."
+msgstr "商品一覧ページに遷移するためのボタンです。"
+
+#: admin/inc/blog.php:124
+msgid "Settings for the post archive page."
+msgstr "投稿アーカイブページに関する設定です。"
+
+#: admin/inc/blog.php:130
+msgid "URL of the post archive page:"
+msgstr "投稿アーカイブページのURL："
+
+#: admin/inc/blog.php:135
+msgid "The page for the post archive page is not set."
+msgstr "まだ投稿アーカイブページ用の固定ページが設定されていないようです。"
+
+#: admin/inc/blog.php:136
+msgid ""
+"Please refer to the <a href=\"https://dl.tcd-theme.com/tcd092/display-"
+"setting/\">manual</a> to create and configure."
+msgstr ""
+"<a href=\"https://dl.tcd-theme.com/tcd092/display-setting/\">設定マニュアル</"
+"a>を参考に作成と設定を行ってください。"
+
+#: admin/inc/blog.php:163
+msgid "Blog article"
+msgstr "ブログ記事"
+
+#: admin/inc/blog.php:173 admin/inc/news.php:147
+msgid ""
+"You can set share button design from basic setting menu in theme option page."
+msgstr "表示するシェアボタンのデザインは基本設定より設定可能です。"
+
+#: admin/inc/blog.php:176 admin/inc/news.php:150
+msgid "Social button (above post content)"
+msgstr "ソーシャルボタン（記事上部）"
+
+#: admin/inc/blog.php:177 admin/inc/news.php:151
+msgid "Social button (under post content)"
+msgstr "ソーシャルボタン（記事下部）"
+
+#: admin/inc/blog.php:178 admin/inc/news.php:152
+msgid "\"COPY Title&amp;URL\" above post content"
+msgstr ""
+"「記事のタイトルとURLをコピーする」ボタン（記事上部）"
+
+#: admin/inc/blog.php:181
+msgid "Meta box"
+msgstr "メタボックス"
+
+#: admin/inc/blog.php:182
+msgid "Display meta box"
+msgstr "メタボックスを表示する"
+
+#: admin/inc/blog.php:185 functions/single_parts.php:57
+msgid "Author"
+msgstr "投稿者"
+
+#: admin/inc/blog.php:186
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: admin/inc/blog.php:187
+msgid "Tags"
+msgstr "タグ"
+
+#: admin/inc/blog.php:193
+msgid "Display related post"
+msgstr "関連記事を表示する"
+
+#: admin/inc/news.php:26 admin/inc/admin_parts.php:26 widget/widget.php:29
+#: functions.php:726
+msgid "News"
+msgstr "お知らせ"
+
+#: admin/inc/news.php:90
+msgid "Slug"
+msgstr "スラッグ"
+
+#: admin/inc/news.php:92
+msgid ""
+"Please enter word by alphabet only.<br />After changing slug, please update "
+"permalink setting form <a href=\"./options-permalink.php\"><strong>permalink "
+"option page</strong></a>."
+msgstr ""
+"スラッグはアルファベットのみご利用ください。<br />スラッグを変更した後は、必"
+"ず<a href=\"./options-permalink.php\">パーマリンク設定画面</a>よりパーマリン"
+"クの設定を更新してください。"
+
+#: admin/inc/news.php:137
+#, php-format
+msgid "%s article"
+msgstr "%s記事"
+
+#: admin/inc/news.php:155
+msgid "Recent articles"
+msgstr "最近の記事"
+
+#: admin/inc/news.php:157
+msgid "Display recent articles"
+msgstr "最新記事を表示する"
+
+#: admin/inc/news.php:61
+msgid "Latest news"
+msgstr "新着のお知らせ"
+
+#: admin/inc/product.php:26 admin/inc/product.php:38
+msgid "Product"
+msgstr "商品"
+
+#: admin/inc/product.php:47
+msgid "NEW"
+msgstr "NEW"
+
+#: admin/inc/product.php:52
+msgid "SALE"
+msgstr "SALE"
+
+#: admin/inc/product.php:57
+msgid "HOT"
+msgstr "おすすめ"
+
+#: admin/inc/product.php:69 admin/inc/front_page.php:109
+msgid "ALL ITEM"
+msgstr "ALL ITEM"
+
+#: admin/inc/product.php:82
+msgid "MORE ITEM"
+msgstr "MORE ITEM"
+
+#: admin/inc/product.php:112 admin/inc/front_page.php:110 admin/inc/front_page.php:612
+msgid "Product list"
+msgstr "商品一覧"
+
+#: admin/inc/product.php:123
+msgid "Japanese Yen symbol type"
+msgstr "日本円記号のタイプ"
+
+#: admin/inc/product.php:120
+msgid "Display review"
+msgstr "スターレビュー"
+
+#: admin/inc/product.php:123
+msgid "New badge"
+msgstr "新着バッジ"
+
+#: admin/inc/product.php:125
+msgid "The new badge will automatically appear on products that are within three days of the publication date."
+msgstr "新着バッジは、公開日付から3日以内の商品に自動で表示されます。"
+
+#: admin/inc/product.php:128
+msgid "Display new badge"
+msgstr "新着バッジを表示する"
+
+#: admin/inc/product.php:136
+msgid "Sale badge"
+msgstr "SALEバッジ"
+
+#: admin/inc/product.php:136
+msgid "The sale badge will automatically appear on items that are on sale."
+msgstr "セールバッジは、セール中の商品に自動的に表示されます。"
+
+#: admin/inc/product.php:141
+msgid "Display sale badge"
+msgstr "SALEバッジを表示する"
+
+#: admin/inc/product.php:149
+msgid "Featuerd badge"
+msgstr "おすすめバッジ"
+
+#: admin/inc/product.php:151
+msgid "The featuerd badges will automatically appear on Featured Products."
+msgstr "おすすめバッジは、注目の商品に自動的に表示されます。"
+
+#: admin/inc/product.php:154
+msgid "Display featuerd badge"
+msgstr "おすすめバッジを表示する"
+
+#: admin/inc/product.php:182
+msgid "Sort / Filter dropdown"
+msgstr "並び替え・絞り込みメニュー"
+
+#: admin/inc/product.php:184
+msgid "Display Sort / Filter dropdown"
+msgstr "並び替え・絞り込みメニューを表示する"
+
+#: admin/inc/product.php:187
+msgid "Product category dropdown"
+msgstr "商品カテゴリー項目"
+
+#: admin/inc/product.php:189
+msgid "Please enter the name of the option to be displayed at the top of the category drop-down below."
+msgstr "商品カテゴリー項目の先頭に表示する選択肢の名称を下記にご入力ください。"
+
+#: admin/inc/product.php:192
+msgid "Default label"
+msgstr "デフォルトのラベル"
+
+#: admin/inc/product.php:192
+msgid "Check the items you want to appear in the category drop-down.</br>You can display up to two levels of categories."
+msgstr "商品カテゴリー項目に表示したい項目にチェックを入れてください。</br>カテゴリーは2階層まで表示できます。"
+
+#: admin/inc/product.php:238
+msgid "Sort dropdown"
+msgstr "並び替え項目"
+
+#: admin/inc/product.php:240
+msgid "Please select the option to be displayed at the top of the drop-down from the following list.</br>If you select something other than \"Sort order\", \"Sort order\" will not be displayed."
+msgstr "並び替え項目の先頭に表示する選択肢を下記よりお選びください。</br>「デフォルト」以外を選択した場合は、「デフォルト」は表示されません。"
+
+#: admin/inc/product.php:243
+msgid "Default sort order"
+msgstr "デフォルトの並び順"
+
+#: admin/inc/product.php:322
+#, php-format
+msgid "The default order is the same as the <a href=\"%s\">product list (sorted)</a> in the admin panel."
+msgstr "デフォルトは、管理画面の<a href=\"%s\">商品一覧（並び替え）</a>と同じ順番で表示されます。"
+
+#: admin/inc/product.php:252
+msgid "Check the items you want to appear in the Sort by drop-down."
+msgstr "並び替え項目に表示したい項目にチェックを入れてください。"
+
+#: admin/inc/product.php:140
+msgid "Various badges and out-of-stock labels"
+msgstr "各種バッジ・在庫切れラベル"
+
+#: admin/inc/product.php:167
+msgid "The badge will be displayed in the upper left corner of each product image in the product list (only out-of-stock labels will be displayed at the bottom of the image)."
+msgstr "バッジは商品一覧の各商品画像左上に表示されます（在庫切れラベルのみ画像下部に表示）。"
+
+#: admin/inc/product.php:167
+msgid "The badge will be displayed in the upper left corner of each product image in the product list."
+msgstr "バッジは商品一覧の各商品画像左上に表示されます。"
+
+#: admin/inc/product.php:182
+msgid "Out of stock label"
+msgstr "在庫切れラベル"
+
+#: admin/inc/product.php:185
+msgid "The out-of-stock label will be automatically displayed at the bottom of the thumbnail image of the out-of-stock item."
+msgstr "在庫切れラベルは、在庫切れ商品のサムネイル画像下部に自動的に表示されます。"
+
+#: admin/inc/product.php:186
+msgid "When out of stock, the cart button and wish list button will not be displayed."
+msgstr "在庫切れ時は、カートボタンやお気に入りボタンは表示されません。"
+
+#: admin/inc/product.php:89 wishlist.php:19
+msgid "Wishlist"
+msgstr "お気に入り"
+
+#: admin/inc/product.php:90 wishlist.php:108
+msgid "There are no items on your wishlist yet."
+msgstr "まだ、お気に入りアイテムの登録はありません"
+
+#: admin/inc/product.php:313
+msgid "Wishlist page"
+msgstr "お気に入りページ"
+
+#: admin/inc/product.php:313
+msgid "Message when the item does not exist"
+msgstr "アイテムが存在しない時のメッセージ"
+
+#: admin/inc/product.php:313 admin/inc/product.php:359
+msgid "Recentry viewed products"
+msgstr "最近チェックした商品"
+
+#: admin/inc/product.php:313 admin/inc/product.php:359
+msgid "Display recentry viewed products"
+msgstr "最近チェックした商品を表示する"
+
+#: admin/inc/product.php:367 admin/inc/product.php:370
+msgid "Related products"
+msgstr "関連商品"
+
+#: admin/inc/product.php:380
+msgid "Related products will be randomly displayed at the bottom of the product detail page."
+msgstr "関連商品は商品詳細ページの下部にランダム表示されます。"
+
+#: admin/inc/product.php:313
+msgid "Display related products"
+msgstr "関連商品を表示する"
+
+#: admin/inc/product.php:389
+msgid "Upsells"
+msgstr "アップセル"
+
+#: admin/inc/product.php:399
+msgid "The upsell will be displayed at the bottom of the related product on the detail page."
+msgstr "アップセルは、詳細ページの関連商品下部に表示されます。"
+
+#: admin/inc/product.php:389
+msgid "To display an upsell, set the product you want to display in the \"Related Products (Upsell)\" section of the product management screen."
+msgstr "アップセルを表示するには、商品管理画面の「関連商品（アップセル）」に表示したい商品を設定してください。"
+
+#: admin/inc/product.php:391
+msgid "Display upsells"
+msgstr "アップセルを表示する"
+
+#: admin/inc/product.php:399
+msgid "Closs sells"
+msgstr "クロスセル"
+
+#: admin/inc/product.php:411
+msgid "Cross-selling is displayed at the bottom of the cart page."
+msgstr "クロスセルは、カートページの下部に表示されます。"
+
+#: admin/inc/product.php:407
+msgid "To display Cross Sell, set the products you want to display in the \"Related Products (Cross Sell)\" section of the product management screen."
+msgstr "クロスセルを表示するには、商品管理画面の「関連商品（クロスセル）」に表示したい商品を設定してください。"
+
+#: admin/inc/product.php:401
+msgid "Display closs sells"
+msgstr "クロスセルを表示する"
+
+#: admin/inc/product.php:365
+msgid "Product page"
+msgstr "商品ページ"
+
+#: admin/inc/product.php:92
+msgid "Add to Favorites"
+msgstr "お気に入りに追加する"
+
+#: admin/inc/product.php:93
+msgid "Already added"
+msgstr "お気に入りに追加済み"
+
+#: admin/inc/product.php:371
+msgid "Star review"
+msgstr "スターレビュー"
+
+#: admin/inc/product.php:371
+msgid "Add to cart label"
+msgstr "カートに入れるボタンのラベル"
+
+#: admin/inc/product.php:375
+msgid "Favorite button"
+msgstr "お気に入りボタン"
+
+#: admin/inc/product.php:375
+msgid "Favorite button on product single page"
+msgstr "お気に入りボタン（商品ページ）"
+
+#: admin/inc/product.php:377
+msgid "Label before favorite"
+msgstr "お気に入り追加前のラベル"
+
+#: admin/inc/product.php:378
+msgid "Label after favorite"
+msgstr "お気に入り追加後のラベル"
+
+#: admin/inc/product.php:378
+msgid "Message when adding a wishlist"
+msgstr "お気に入り追加時のメッセージ"
+
+#: admin/inc/product.php:378
+msgid "Added to"
+msgstr "お気に入りに追加しました"
+
+#: admin/inc/product.php:378
+msgid "Removed from"
+msgstr "お気に入りから削除しました"
+
+#: admin/inc/product.php:378
+msgid "Message when adding"
+msgstr "追加後のメッセージ"
+
+#: admin/inc/product.php:378
+msgid "Message when deleting"
+msgstr "削除後のメッセージ"
+
+#: admin/inc/product.php:384
+msgid "Tabs"
+msgstr "タブ"
+
+#: admin/inc/product.php:386
+msgid "Tabs to display at the top"
+msgstr "先頭に表示するタブ"
+
+#: admin/inc/product.php:387
+msgid "Description tab label"
+msgstr "説明タブのラベル"
+
+#: admin/inc/product.php:388
+msgid "Additional information tab label"
+msgstr "追加情報タブのラベル"
+
+#: admin/inc/product.php:389
+msgid "Reviews tab label"
+msgstr "レビュータブのラベル"
+
+#: admin/inc/product.php:96
+msgid "Remarks"
+msgstr "備考"
+
+#: admin/inc/product.php:96
+msgid "Product details"
+msgstr "商品の詳細"
+
+#: admin/inc/product.php:96
+msgid "How about this product?"
+msgstr "こちらの商品はいかがでしょうか。"
+
+#: admin/inc/product.php:97
+msgid "Reviews"
+msgstr "レビュー"
+
+#: admin/inc/product.php:97
+msgid "Star review color"
+msgstr "スターレビューの色"
+
+#: admin/inc/product.php:97
+msgid "You can change the wording of the review form to display differently for members and non-members."
+msgstr "レビューフォームは、会員と非会員別に表示する文言を変更できます。"
+
+#: admin/inc/product.php:97
+msgid "The review form will not be displayed to non-members (logged out)."
+msgstr "非会員（ログアウト中）には、レビュー入力フォームは表示されません。"
+
+#: admin/inc/product.php:418
+msgid "Product list star reviews"
+msgstr "商品一覧のスターレビュー"
+
+#: admin/inc/product.php:419
+msgid "Product single page star reviews"
+msgstr "商品ページのスターレビュー"
+
+#: admin/inc/product.php:42
+msgid "Review Form"
+msgstr "レビューフォーム"
+
+#: admin/inc/product.php:42
+msgid "For Members"
+msgstr "ログイン時"
+
+#: admin/inc/product.php:42
+msgid "For non-members"
+msgstr "ログアウト時"
+
+#: admin/inc/product.php:568 admin/inc/header.php:94 admin/inc/front_page.php:685
+msgid "This feature is available after installing and activating WooCoomerce."
+msgstr "こちらの機能は、WooCoomerceのインストール・有効化後にお使いいただけます。"
+
+#: admin/inc/product.php:386
+msgid "The tab labels you enter here will be applied to all products.</br>You can also set them for each product from the product edit page."
+msgstr "ここで入力したタブのラベルは、全商品に共通で反映されます。</br>各商品編集ページから個別に設定も可能です。"
+
+#: admin/inc/product.php:319
+msgid "Number of products displayed on one page"
+msgstr "1ページに表示する商品数"
+
+#: admin/inc/header.php:80 functions/page_cf.php:151
+msgid "Header bar"
+msgstr "ヘッダーバー"
+
+#: admin/inc/header.php:84
+#, php-format
+msgid "On the left side of the header bar, you will see the Site Title and Tagline in the <a href=\"%s\">General Settings</a>."
+msgstr "ヘッダーバーの左側には、<a href=\"%s\">一般設定</a>の「サイトのタイトル 」と「 キャッチフレーズ」が表示されます。"
+
+#: admin/inc/header.php:84
+msgid "Member menu"
+msgstr "会員メニュー"
+
+#: admin/inc/header.php:86
+msgid "Wishlist badge color"
+msgstr "お気に入りのバッジカラー"
+
+#: admin/inc/header.php:87
+msgid "Cart badge color"
+msgstr "カートのバッジカラー"
+
+#: admin/inc/header.php:84
+msgid "In mobile size, the logo setting will be reflected."
+msgstr "モバイルサイズ時は、ロゴの設定が反映されます。"
+
+#: admin/inc/header.php:110 admin/inc/options.php:762 admin/inc/basic.php:384
+msgid "Logo"
+msgstr "ロゴ"
+
+#: admin/inc/header.php:105
+msgid "Select the type of logo you would like to display in the header."
+msgstr "ヘッダーに表示するロゴのタイプをお選びください。"
+
+#: admin/inc/header.php:105
+msgid "In mobile size, the logo will be displayed on the left side of the header bar."
+msgstr "モバイルサイズ時は、ヘッダーバーの左側にロゴが表示されます。"
+
+#: admin/inc/header.php:118
+msgid "Logo image"
+msgstr "ロゴ画像"
+
+#: admin/inc/header.php:124
+msgid "Logo image (mobile)"
+msgstr "ロゴ画像（モバイルサイズ時）"
+
+#: admin/inc/header.php:120 admin/inc/header.php:126
+msgid ""
+"If you upload a logo image for retina display, please check the following "
+"check boxes"
+msgstr ""
+"レティナディスプレイ用のロゴ画像をアップロードした場合は、以下のチェックボッ"
+"クスにチェックを入れてください"
+
+#: admin/inc/header.php:124
+msgid "The header menu can be set from Appearance > Menus."
+msgstr "ヘッダーメニューは外観 > メニューより設定できます。"
+
+#: admin/inc/header.php:143
+msgid "Drawer menu"
+msgstr "ドロワーメニュー"
+
+#: admin/inc/header.php:149
+msgid "Choose a design for your drawer menu."
+msgstr "ドロワーメニューのデザインを下記よりお選びください。"
+
+#: admin/inc/header.php:139
+msgid "The drawer menu can be expanded from the top-right burger menu in mobile size."
+msgstr "ドロワーメニューはモバイルサイズ時に右上のバーガーメニューから展開できます。"
+
+#: admin/inc/header.php:143
+msgid "\"Caption\" and \"Image\" will be displayed at the top of the drawer menu in mobile size."
+msgstr "「キャプション」と「画像」はモバイルサイズ時のドロワーメニュー上部に表示されます。"
+
+#: admin/inc/header.php:143
+msgid "Use it to display a single word tagline or a large logo even on mobile devices."
+msgstr "一言のキャッチコピーやモバイル端末でも大きなロゴを表示したい場合にご活用ください。"
+
+#: admin/inc/header.php:151
+msgid "Caption"
+msgstr "キャプション"
+
+#: admin/inc/header.php:165 functions/page_cf.php:150
+msgid "Header message"
+msgstr "ヘッダーメッセージ"
+
+#: admin/inc/header.php:166
+msgid "The \"header message\" is displayed at the top of the site (above the header bar)."
+msgstr "「ヘッダーメッセージ」はサイトの最上部（ヘッダーバーの上）に表示されます。"
+
+#: admin/inc/header.php:169
+msgid "Display header message"
+msgstr "ヘッダーメッセージを表示する"
+
+#: admin/inc/header.php:176 admin/inc/front_page.php:25 admin/inc/seo.php:89 admin/inc/options.php:89
+msgid "Front page"
+msgstr "トップページ"
+
+#: admin/inc/header.php:177
+msgid "Sub pages"
+msgstr "下層ページ"
+
+#: admin/inc/header.php:177 admin/inc/front_page.php:520 admin/inc/front_page.php:674
+#: functions/page_cf.php:154
+msgid "Content width"
+msgstr "コンテンツの横幅"
+
+#: admin/inc/header.php:184
+msgid "Font color of text link"
+msgstr "テキストリンクの文字色"
+
+#: admin/inc/header.php:123 admin/inc/header.php:129
+#: admin/inc/basic.php:390 admin/inc/basic.php:392
+#: admin/inc/header.php:153
+msgid "Use retina display logo image"
+msgstr "レティナディスプレイ用のロゴ画像を利用する"
+
+#: admin/inc/footer.php:25 functions/page_cf.php:153
+msgid "Footer"
+msgstr "フッター"
+
+
+
+#: admin/inc/footer.php:93
+msgid "Footer message"
+msgstr "フッターメッセージ"
+
+#: admin/inc/footer.php:101
+msgid "Display footer message"
+msgstr "フッターメッセージを表示する"
+
+#: admin/inc/footer.php:104　admin/inc/header.php:172
+msgid "Message"
+msgstr "メッセージ"
+
+#: admin/inc/footer.php:86
+msgid "You can display a message at the top of the footer menu."
+msgstr "フッターのメニュー上部にメッセージを表示できます。"
+
+#: admin/inc/footer.php:108
+msgid "The footer menu can be set from Appearance > Menus."
+msgstr "フッターメニューは外観 > メニューより設定できます。"
+
+#: admin/inc/footer.php:108 #: admin/inc/header.php:145
+msgid "Click here to see the custom menu creation screen."
+msgstr "カスタムメニュー作成画面はこちら"
+
+#: admin/inc/footer.php:132 admin/inc/footer.php:313
+msgid "SNS icons"
+msgstr "SNSアイコン"
+
+#: admin/inc/footer.php:136
+msgid "Display SNS icons"
+msgstr "SNSアイコンを表示する"
+
+#: admin/inc/footer.php:138
+msgid "Link"
+msgstr "リンク"
+
+#: admin/inc/footer.php:140
+msgid ""
+"Enter url of your SNS. Please leave the field empty if you don't want to "
+"display certain sns button."
+msgstr ""
+"ボタンを表示したいSNSのページURLを入力してください。<br />こちらでURLを入力し"
+"ていないものは表示されません。"
+
+#: admin/inc/footer.php:143 functions/user-profile.php:20
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/inc/footer.php:144 functions/user-profile.php:25
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: admin/inc/footer.php:145 functions/user-profile.php:30
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/inc/footer.php:146 functions/user-profile.php:35
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: admin/inc/footer.php:147 functions/user-profile.php:40
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: admin/inc/footer.php:148
+msgid "Contact page URL (You can use mailto:)"
+msgstr "お問い合わせページのURL（mailto:も利用可）"
+
+#: admin/inc/footer.php:149
+msgid "Display RSS button"
+msgstr "RSSボタンを表示する"
+
+#: admin/inc/footer.php:166
+msgid "Copyright"
+msgstr "コピーライト"
+
+#: admin/inc/footer.php:183
+msgid "Footer bar (mobile device only)"
+msgstr "フッターバー（モバイル端末専用）"
+
+#: admin/inc/footer.php:186
+msgid "Footer bar will only be displayed at mobile device."
+msgstr ""
+"フッターバーはスマートフォンやタブレット等のモバイル端末でのみ表示されます。"
+
+#: admin/inc/footer.php:187
+msgid "Display type of the footer bar"
+msgstr "フッターバーの表示方法"
+
+#: admin/inc/footer.php:199
+msgid "Footer bar type"
+msgstr "フッターバーのタイプ"
+
+#: admin/inc/footer.php:203
+msgid "Button with icon"
+msgstr "アイコン付きのボタン"
+
+#: admin/inc/footer.php:207
+msgid "Normal button"
+msgstr "通常のボタン"
+
+#: admin/inc/footer.php:213
+msgid "Settings for the appearance of the footer bar"
+msgstr "フッターバーの外観の設定"
+
+#: admin/inc/footer.php:220
+msgid "Opacity of border"
+msgstr "線の透過率"
+
+#: admin/inc/footer.php:227
+msgid "Settings for the contents of the footer bar"
+msgstr "フッターバーの内容の設定"
+
+#: admin/inc/footer.php:229
+msgid ""
+"You can display the button with icon in footer bar. (We recommend you to set "
+"max 4 buttons.)"
+msgstr ""
+"フッターバーには任意のアイコン付きボタンを表示できます。（ボタン数は最大で4つ"
+"までを推奨いたします）"
+
+#: admin/inc/footer.php:229
+msgid "You can select button types below."
+msgstr "表示できるボタンのタイプは以下の通りです。"
+
+#: admin/inc/footer.php:233 admin/inc/options.php:96 admin/inc/options.php:417
+#: admin/inc/quicktag.php:291 #: admin/inc/front_page.php:637
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/inc/footer.php:234
+msgid "You can set link URL."
+msgstr ""
+"任意のリンク先URLを指定できます。<br>例：「新着情報」（ニュースアーカイブペー"
+"ジのURLを設定）「お問い合わせ」（お問い合わせページのURLを設定）など"
+
+#: admin/inc/footer.php:237 admin/inc/options.php:97
+msgid "Share"
+msgstr "シェア"
+
+#: admin/inc/footer.php:238
+msgid "Share buttons are displayed if you tap this button."
+msgstr ""
+"このボタンをタップでTwitter、Facebook、LINE、はてなブックマークのシェアボタン"
+"がポップアップ表示されます。"
+
+#: admin/inc/footer.php:241 admin/inc/options.php:98
+msgid "Telephone"
+msgstr "電話番号"
+
+#: admin/inc/footer.php:242
+msgid "You can call this number."
+msgstr ""
+"このボタンをタップでダイヤル画面に遷移し、設定された電話番号に電話がかけられ"
+"ます。"
+
+#: admin/inc/footer.php:246
+msgid ""
+"Click \"Add item\", and set the button for footer bar. You can drag the item "
+"to change their order."
+msgstr ""
+"「アイテムを追加する」から項目を追加し、表示内容を設定して下さい。追加したア"
+"イテムは、各項目をドラッグして順番を変更することが出来ます。"
+
+#: admin/inc/footer.php:271
+msgid "Phone number"
+msgstr "電話番号"
+
+#: admin/inc/footer.php:273
+msgid "Button icon"
+msgstr "ボタンのアイコン"
+
+#: admin/inc/footer.php:352
+#, php-format
+msgid "Display button%s"
+msgstr "ボタン%sを表示する"
+
+#: admin/inc/protect.php:25
+msgid "Password protected page"
+msgstr "保護ページ"
+
+#: admin/inc/protect.php:42
+msgid "Send"
+msgstr "送信する"
+
+#: admin/inc/protect.php:62
+msgid "Password protected pages"
+msgstr "保護ページ"
+
+#: admin/inc/protect.php:64
+msgid "Password input field"
+msgstr "パスワード入力欄"
+
+#: admin/inc/protect.php:64
+msgid "Label of password field"
+msgstr "パスワード入力欄の見出し"
+
+#: admin/inc/protect.php:66 functions/password_form.php:27
+msgid "Contents to encourage member registration"
+msgstr "会員登録への誘導コンテンツ"
+
+#: admin/inc/protect.php:71
+msgid "Name of contents"
+msgstr "コンテンツ名"
+
+#: admin/inc/protect.php:74
+msgid "\"Name of contents\" is used in edit post page."
+msgstr ""
+"※設定したコンテンツ名は投稿編集画面下部「会員登録への誘導コンテンツ」の選択項"
+"目名としてのみ使用されます。"
+
+#: admin/inc/protect.php:91
+msgid "Sentences to encourage member registration"
+msgstr "会員登録への誘導文"
+
+#: admin/inc/protect.php:93
+msgid ""
+"\"Sentences to encourage member registration\" is displayed under excerpts."
+msgstr ""
+"「会員登録への誘導文」は抜粋の下（パスワード入力項目の上部）に表示さ"
+"れます。"
+
+#: admin/inc/protect.php:96
+msgid "Name of password button"
+msgstr "パスワード入力ボタンのラベル"
+
+#: functions/password_form.php:44
+msgid "Select a content to encourage member registration."
+msgstr "会員登録への誘導コンテンツを選択して下さい"
+
+#: functions/password_form.php:160
+msgid "Password:"
+msgstr "パスワード"
+
+#: admin/inc/quicktag.php:25
+msgid "Quick tag"
+msgstr "クイックタグ"
+
+#: admin/inc/quicktag.php:198
+msgid "Activation"
+msgstr "有効化"
+
+#: admin/inc/quicktag.php:200
+msgid ""
+"If you don't want to use quicktags included in the theme, please uncheck the "
+"box below."
+msgstr ""
+"このテーマに同梱されるクイックタグを使用しない場合は下のチェックを外してくだ"
+"さい。"
+
+#: admin/inc/quicktag.php:201
+msgid "Use quicktags"
+msgstr "クイックタグを使用する"
+
+#: admin/inc/quicktag.php:213 admin/inc/quicktag.php:281 admin/inc/quicktag.php:328
+#: admin/inc/quicktag.php:369
+msgid ""
+"These settings will be reflected in the quick tag button on the edit screen."
+msgstr "ここで登録した設定は記事編集画面のクイックタグに反映されます。"
+
+#: admin/inc/quicktag.php:217
+#, php-format
+msgid "H%d tag"
+msgstr "H%dタグ"
+
+#: admin/inc/quicktag.php:222
+msgid "Headline design"
+msgstr "見出しデザイン"
+
+#: admin/inc/quicktag.php:240
+msgid "Border setting"
+msgstr "枠線の設定"
+
+#: admin/inc/quicktag.php:240
+msgid "Display position"
+msgstr "表示設定"
+
+#: admin/inc/quicktag.php:250
+msgid "Border style"
+msgstr "枠線のタイプ"
+
+#: admin/inc/quicktag.php:253
+msgid "Border width"
+msgstr "枠線の太さ"
+
+#: admin/inc/quicktag.php:261
+msgid "If you set the border style to \"Double\", please set the border width to 3px or more."
+msgstr "枠線のタイプを「二重線」にする場合、枠線の太さは3px以上に設定してください。"
+
+#: admin/inc/quicktag.php:325
+msgid "Underline"
+msgstr "アンダーライン"
+
+#: admin/inc/quicktag.php:337
+msgid "Sample text for underline."
+msgstr "アンダーライン用のサンプルテキストです。"
+
+#: admin/inc/quicktag.php:338
+msgid "The animation will be executed when you scroll into the screen."
+msgstr "アニメーションは、スクロールして画面内に入ると実行されます。"
+
+#: admin/inc/quicktag.php:350
+msgid "Using animation"
+msgstr "アニメーションを利用する"
+
+#: admin/inc/quicktag.php:366
+msgid "Speech balloon"
+msgstr "吹き出し"
+
+#: admin/inc/quicktag.php:375 functions/custom_editor.php:106
+msgid "Speech balloon left 1"
+msgstr "吹き出し左1"
+
+#: admin/inc/quicktag.php:376 functions/custom_editor.php:110
+msgid "Speech balloon left 2"
+msgstr "吹き出し左2"
+
+#: admin/inc/quicktag.php:377 functions/custom_editor.php:114
+msgid "Speech balloon right 1"
+msgstr "吹き出し右1"
+
+#: admin/inc/quicktag.php:378 functions/custom_editor.php:118
+msgid "Speech balloon right 2"
+msgstr "吹き出し右2"
+
+#: admin/inc/quicktag.php:391 admin/inc/quicktag.php:399
+msgid "User name"
+msgstr "ユーザー名"
+
+#: admin/inc/quicktag.php:393
+msgid "The speech balloon can be set to a user name, image, and color."
+msgstr "吹き出しは、ユーザー名と画像、色を設定できます。"
+
+#: admin/inc/quicktag.php:403
+msgid "User image"
+msgstr "ユーザー画像"
+
+#: admin/inc/quicktag.php:423
+msgid "Google Maps"
+msgstr "Googleマップ"
+
+#: admin/inc/quicktag.php:427
+msgid "You can set styles of marker in Google maps using this option."
+msgstr "クイックタグを使って「Googleマップ」を表示した際のピンマーカーの表示スタイルを設定することができます。"
+
+#: admin/inc/quicktag.php:450
+msgid "API key"
+msgstr "APIキー"
+
+#: admin/inc/quicktag.php:451
+msgid "Map design"
+msgstr "マップのデザイン"
+
+#: admin/inc/quicktag.php:452
+msgid "Marker type"
+msgstr "マーカータイプ"
+
+#: admin/inc/quicktag.php:455
+msgid "Custom marker setting"
+msgstr "カスタムマーカーの設定"
+
+#: admin/inc/quicktag.php:460
+msgid "Images used for markers"
+msgstr "マーカーに使う画像"
+
+#: admin/inc/quicktag.php:464
+msgid "In order to display Google Maps, you need to enter your API key. For details on how to obtain an API key, please see below."
+msgstr "Googleマップを表示するには、APIキーの入力が必要です。APIキーの取得方法は下記をご覧ください。"
+
+#: admin/inc/quicktag.php:464
+msgid "How to get a Google Maps Platform API key and notes"
+msgstr "Google Maps Platform APIキーの取得方法と注意点"
+
+#: admin/inc/seo.php:77
+msgid "Meta tag"
+msgstr "metaタグ"
+
+#: admin/inc/seo.php:82
+msgid "You can set individual meta tags for the front page and archive pages."
+msgstr "トップページやアーカイブページのmetaタグを個別に設定できます。"
+
+#: admin/inc/seo.php:83
+msgid "If not entered, the site's title, catchphrase, etc. will be reflected."
+msgstr "未入力の場合は、サイトのタイトルやキャッチフレーズ等が反映されます。"
+
+#: admin/inc/seo.php:84
+msgid ""
+"You can edit meta tags for single pages and taxonomy pages from the "
+"respective editing screens."
+msgstr "個別ページやタクソノミーページのmetaタグは、各編集画面より行えます。"
+
+#: admin/inc/seo.php:90 admin/inc/seo.php:101 admin/inc/seo.php:112
+#: functions/seo.php:91 functions/seo.php:102 functions/seo.php:113
+#: functions/taxonomy_cf.php:17 functions/quick_edit.php:18
+msgid "Title tag"
+msgstr "titleタグ"
+
+#: admin/inc/seo.php:88 admin/inc/seo.php:99 admin/inc/seo.php:110
+#: functions/seo.php:93 functions/seo.php:104 functions/seo.php:115
+#: functions/taxonomy_cf.php:21 functions/quick_edit.php:22
+msgid "Meta description tag"
+msgstr "meta descriptionタグ"
+
+#: admin/inc/seo.php:95 functions/seo.php:106 functions/seo.php:117
+#: functions/taxonomy_cf.php:23
+msgid "Current character is : <span>0</span>"
+msgstr "現在の文字数：<span>0</span>文字"
+
+#: admin/inc/seo.php:100
+msgid "Post archive page"
+msgstr "ブログアーカイブページ"
+
+#: admin/inc/seo.php:111
+#, php-format
+msgid "%s archive page"
+msgstr "%sアーカイブページ"
+
+#: admin/inc/seo.php:129
+msgid "Facebook OGP"
+msgstr "Facebook OGP"
+
+#: admin/inc/seo.php:133
+msgid "OGP is a mechanism for correctly conveying page information."
+msgstr ""
+"OGPとは、FacebookやtwitterなどのSNSでWebページをシェアする際に、記事タイト"
+"ル、URL、アイキャッチ画像などのページ情報を正しく伝えるための仕組みです。"
+"<br>OGP設定を行うことで、シェアされたページの情報がよりわかりやすく魅力的に表"
+"示されます。"
+
+#: admin/inc/seo.php:137
+msgid "Use OGP"
+msgstr "OGPを利用する"
+
+#: admin/inc/seo.php:140
+msgid "OGP"
+msgstr "OGP"
+
+#: admin/inc/seo.php:143
+msgid "Your app ID"
+msgstr "アプリID"
+
+#: admin/inc/seo.php:145
+msgid "In order to use Facebook Insights please set your app ID."
+msgstr "Facebook インサイトを使用するには、アプリIDを設定してください。"
+
+#: admin/inc/seo.php:149
+msgid "OGP image"
+msgstr "OGP用画像"
+
+#: admin/inc/seo.php:152
+msgid "This image is displayed for OGP if the page does not have a thumbnail."
+msgstr ""
+"ここで登録した画像はアイキャッチのない投稿記事やアーカイブページなどでOGP用画"
+"像として使用します。"
+
+#: admin/inc/seo.php:169
+msgid "Twitter Cards"
+msgstr "Twitter Cards"
+
+#: admin/inc/seo.php:173
+msgid "This theme requires Facebook OGP settings to use Twitter cards."
+msgstr ""
+"Twitterでシェアする際にアイキャッチ画像やタイトルなどのページ情報をカード形式"
+"で表示するための設定を行います。<br>※Twitter Cardsを利用する場合は、併せて"
+"「Facebook OGP設定」を行ってください。"
+
+#: admin/inc/seo.php:174
+msgid "Information about Twitter Cards."
+msgstr "Twitter Cardsとは"
+
+#: admin/inc/seo.php:178
+msgid "Use Twitter Cards"
+msgstr "Twitter Cardsを利用する"
+
+#: admin/inc/seo.php:182
+msgid "Your Twitter account name (exclude @ mark)"
+msgstr "あなたのtwitterアカウント名（@マークは不要）"
+
+#: admin/inc/seo.php:196
+msgid "Acceleration"
+msgstr "高速化"
+
+#: admin/inc/seo.php:199
+msgid "Emoji"
+msgstr "絵文字"
+
+#: admin/inc/seo.php:201
+msgid "Use emoji"
+msgstr "絵文字を使う"
+
+#: admin/inc/seo.php:201
+msgid ""
+"We recommend to checkoff this option if you dont use any Emoji in your post "
+"content."
+msgstr ""
+"記事本文に絵文字を使っていない場合は、「絵文字を使う」からチェックを外すこと"
+"をお勧めします。<br />チェックが外された場合、絵文字関連のjavascript等を読み"
+"込まないため、ページの表示速度が改善されます。"
+
+#: admin/inc/seo.php:205
+msgid "Optimization"
+msgstr "最適化"
+
+#: admin/inc/seo.php:207
+msgid "Check here to remove margins and line breaks in JavaScript."
+msgstr "ここにチェックを入れるとJavaScriptコードの余白や改行を取り除きます。"
+
+#: admin/inc/seo.php:209
+msgid "Use JavaScript optimization"
+msgstr "JavaScriptコードの最適化を行う"
+
+#: admin/inc/seo.php:211
+msgid ""
+"Check here to remove margins and line breaks in CSS.<br>It also improves the "
+"loading speed by generating a page common CSS cache file.<br>* This "
+"specification does not apply to external CSS (CDN, etc.)."
+msgstr ""
+"ここにチェックを入れるとCSSコードの余白や改行を取り除きます。<br>また、ページ"
+"共通CSSのキャッシュファイルを生成することで、読み込み速度を向上させます。"
+"<br>※外部CSS（CDNなど）には適用されない仕様です。"
+
+#: admin/inc/seo.php:213
+msgid "Use CSS optimization"
+msgstr "CSSコードの最適化を行う"
+
+#: admin/inc/seo.php:215
+msgid "Check here to remove margins and line breaks in HTML."
+msgstr "ここにチェックを入れるとHTMLコードの余白や改行を取り除きます。"
+
+#: admin/inc/seo.php:217
+msgid "Use HTML optimization"
+msgstr "HTMLコードの最適化を行う"
+
+#: admin/inc/marketing.php:25
+msgid "Marketing"
+msgstr "マーケティング"
+
+#: admin/inc/marketing.php:230 admin/inc/marketing.php:233
+msgid "CTA under the post content"
+msgstr "記事下CTA"
+
+#: admin/inc/marketing.php:235
+msgid "You can set up CTA under the post content."
+msgstr "記事詳細ページ下部に表示するCTAの設定を行います。"
+
+#: admin/inc/marketing.php:236 admin/inc/marketing.php:437
+msgid "You can register up to three contents."
+msgstr "最大３つまで登録することができます。"
+
+#: admin/inc/marketing.php:259 admin/inc/marketing.php:445
+msgid "CTA Design"
+msgstr "CTAのデザイン"
+
+#: admin/inc/marketing.php:288
+msgid "Please select the CTA to display under the post content."
+msgstr "表示する記事下CTAを選択してください。"
+
+#: admin/inc/marketing.php:297 admin/inc/marketing.php:639
+msgid "Please select CTA to use in random display."
+msgstr "ランダム表示で使用するCTAを選択してください。"
+
+#: admin/inc/marketing.php:304 admin/inc/marketing.php:646
+msgid "A/B Testing"
+msgstr "ABテスト"
+
+#: admin/inc/marketing.php:306 admin/inc/marketing.php:648
+msgid ""
+"To measure conversions, copy and paste the following code in the editor of "
+"\"thanks page\"."
+msgstr ""
+"コンバージョンを測定するには、サンキューページ（サイト訪問者による商品購入や"
+"メルマガ登録などのアクション後に表示するページ）のエディタ内に以下のコードを"
+"コピー＆ペーストしてください。"
+
+#: admin/inc/marketing.php:312 admin/inc/marketing.php:654
+msgid "Impressions"
+msgstr "インプレッション"
+
+#: admin/inc/marketing.php:313 admin/inc/marketing.php:655
+msgid "Number of clicks"
+msgstr "クリック数"
+
+#: admin/inc/marketing.php:314 admin/inc/marketing.php:656
+msgid "Click-through rate"
+msgstr "クリック率"
+
+#: admin/inc/marketing.php:315 admin/inc/marketing.php:657
+msgid "Conversions"
+msgstr "コンバージョン"
+
+#: admin/inc/marketing.php:316 admin/inc/marketing.php:658
+msgid "Conversion rate"
+msgstr "コンバージョン率"
+
+#: admin/inc/marketing.php:317 admin/inc/marketing.php:659
+#: admin/inc/tools.php:47 admin/inc/tools.php:51
+msgid "Reset"
+msgstr "リセット"
+
+#: admin/inc/marketing.php:327 admin/inc/marketing.php:669
+msgid "Reset values"
+msgstr "計測値をリセット"
+
+#: admin/inc/marketing.php:273
+msgid "Popup CTA"
+msgstr "ポップアップCTA"
+
+#: admin/inc/marketing.php:277
+msgid ""
+"You can set up Popup CTA which is displayed at the bottom right of the "
+"screen on scroll.<br>If click the close button in Popup CTA, hide the Popup "
+"CTA until browser closes."
+msgstr ""
+"ページをスクロールした際に画面右下部に表示されるポップアップCTAの設定を行いま"
+"す。<br>一度ポップアップCTAを閉じた場合、ブラウザを閉じるまで再表示されませ"
+"ん。"
+
+#: admin/inc/marketing.php:280
+msgid "Popup CTA type"
+msgstr "ポップアップCTAのタイプ"
+
+#: admin/inc/marketing.php:283 admin/inc/marketing.php:291
+msgid "Banner template"
+msgstr "バナーテンプレート"
+
+#: admin/inc/marketing.php:286　admin/inc/marketing.php:325
+#: admin/inc/marketing.php:294
+msgid "Wysiwyg editor"
+msgstr "ビジュアルエディタ"
+
+#: admin/inc/marketing.php:289
+msgid "Hide Popup CTA"
+msgstr "ポップアップCTAを表示しない"
+
+#: admin/inc/marketing.php:325
+msgid "You can use the Wysiwyg editor to display any content you want."
+msgstr "ビジュアルエディタを使って任意のコンテンツを表示できます。"
+
+#: admin/inc/marketing.php:325
+msgid "Depending on the content you insert, the display may be corrupted."
+msgstr "挿入するコンテンツによっては、表示が崩れる可能性があります。"
+
+#: admin/inc/marketing.php:325
+msgid "Use image"
+msgstr "画像を表示する"
+
+#: admin/inc/marketing.php:325
+msgid "Images can be displayed in Popup CTA."
+msgstr "画像をポップアップCTAに表示できます。"
+
+
+#: admin/inc/marketing.php:281
+msgid "Modal CTA"
+msgstr "モーダルCTA"
+
+#: admin/inc/marketing.php:285
+msgid ""
+"Configure settings for Modal CTA that are displayed across the screen when the page loads.<br>If click the close button in Popup CTA, hide the Modal CTA until browser closes."
+msgstr ""
+"ページ読み込み時に画面全体に表示されるモーダルCTAの設定を行います。<br>一度モーダルCTAを閉じた場合、ブラウザを閉じるまで再表示されません。"
+
+#: admin/inc/marketing.php:288
+msgid "Modal CTA type"
+msgstr "モーダルCTAのタイプ"
+
+#: admin/inc/marketing.php:297
+msgid "Hide Modal CTA"
+msgstr "モーダルCTAを表示しない"
+
+#: admin/inc/marketing.php:306
+msgid "View larger"
+msgstr "拡大表示"
+
+#: admin/inc/tools.php:17 admin/inc/tools.php:30
+msgid "TCD theme options tools"
+msgstr "テーマオプション管理"
+
+#: admin/inc/tools.php:31
+msgid "You can do TCD theme options \"export\" \"import\" \"reset\"."
+msgstr ""
+"TCDテーマオプション設定の「エクスポート」「インポート」及び「リセット」を行い"
+"ます。"
+
+#: admin/inc/tools.php:32
+msgid ""
+"For \"import\" and \"reset\", theme option setting may be overwritten. Be "
+"sure to read the following note before using."
+msgstr ""
+"<b>※「インポート」及び「リセット」は、実行することで現在のTCDテーマオプション"
+"設定の上書きを行います。<br>　ご利用の前に<a href=\"https://tcd-theme.com/"
+"tcd_option_manual.pdf\" target=\"_blank\">テーマオプション管理マニュアル</a>"
+"をご確認ください。</b>"
+
+#: admin/inc/tools.php:34 admin/inc/tools.php:38
+msgid "Export"
+msgstr "エクスポート"
+
+#: admin/inc/tools.php:36
+msgid "Export TCD theme option."
+msgstr "TCDテーマオプションの設定をエクスポートします。"
+
+#: admin/inc/tools.php:39 admin/inc/tools.php:45
+msgid "Import"
+msgstr "インポート"
+
+#: admin/inc/tools.php:41
+msgid ""
+"Import the TCD theme option.Please specify JSON file (. Json) exported from "
+"TCD theme."
+msgstr ""
+"TCDテーマオプションの設定をインポートします。TCDテーマからエクスポートした"
+"JSONファイル(.json)を指定してください。"
+
+#: admin/inc/tools.php:49
+msgid ""
+"Initialize the TCD theme option.Please note that all current settings will "
+"be deleted."
+msgstr ""
+"TCDテーマオプションを初期化します。現在の設定値は全て削除されますのでご注意く"
+"ださい。"
+
+#: admin/inc/tools.php:53
+msgid "Add sample posts"
+msgstr "サンプル記事追加"
+
+#: admin/inc/tools.php:53
+msgid "Note: sample posts will not be added if they already exist."
+msgstr "※既に「サンプル記事」が存在する場合は追加されません。"
+
+#: admin/inc/tools.php:54
+msgid "Add sample Categories"
+msgstr "サンプルカテゴリ―を追加"
+
+#: admin/inc/tools.php:54
+msgid "Note: sample categories will not be added if they already exist."
+msgstr "※既に「サンプルカテゴリ―」が存在する場合は追加されません。"
+
+#: admin/inc/tools.php:55
+msgid "Add an sample global menu"
+msgstr "サンプルグローバルメニュー追加"
+
+#: admin/inc/tools.php:55
+msgid ""
+"Note: an sample global menu will not be added if the global menu or \"Sample "
+"menu\" already exist."
+msgstr ""
+"※グローバルメニューが設定されている場合や既に「サンプルメニュー」が存在する場"
+"合は追加されません。"
+
+#: admin/inc/tools.php:56
+msgid "Initialize the widget area"
+msgstr "ウィジェット初期化"
+
+#: admin/inc/tools.php:56
+msgid "Note: current widgets in the widget area will be initialized."
+msgstr "※現在のウィジェット設定は上書きされます。"
+
+#: admin/inc/tools.php:71
+msgid "Are you sure you want to reset?"
+msgstr "TCDテーマオプションを初期化してもよろしいでしょうか？"
+
+#: admin/theme-options.php:20 admin/theme-options.php:21
+msgid "TCD Theme"
+msgstr "TCDテーマ"
+
+#: admin/theme-options.php:74
+msgid "TCD Theme Options"
+msgstr "TCDテーマオプション"
+
+#: admin/theme-options.php:81
+msgid "Updated"
+msgstr "設定を更新しました"
+
+#: admin/theme-options.php:109
+msgid "Now saving..."
+msgstr "データの保存中・・・"
+
+#: admin/theme-options.php:344
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+"アップロードされたファイルはphp.iniのファイルサイズ上限を超えています。"
+
+#: admin/theme-options.php:347
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr "アップロードされたファイルは、HTMLのファイルサイズ上限を超えています。"
+
+#: admin/theme-options.php:350
+msgid "The uploaded file was only partially uploaded."
+msgstr "アップロードされたファイルは一部のみアップロードされました。"
+
+#: admin/theme-options.php:353
+msgid "No file was uploaded."
+msgstr "アップロードされたファイルはありません。"
+
+#: admin/theme-options.php:356
+msgid "Missing a temporary folder."
+msgstr "一時フォルダがありません。"
+
+#: admin/theme-options.php:359
+msgid "Failed to write file to disk."
+msgstr "ファイルをディスクに書き込めませんでした。"
+
+#: admin/theme-options.php:362
+msgid "File upload stopped by extension."
+msgstr "ファイルアップロードを停止しました。"
+
+#: admin/theme-options.php:365
+msgid "File has not been uploaded."
+msgstr "ファイルがアップロードされていません。"
+
+#: admin/theme-options.php:368
+msgid "There is no file"
+msgstr "ファイルが存在しません。"
+
+#: admin/theme-options.php:371
+msgid "The file extension is not .json"
+msgstr "ファイルの拡張子が.jsonではありません"
+
+#: admin/theme-options.php:374
+msgid "Failed to read the file"
+msgstr "ファイルの読み込みに失敗しました。"
+
+#: admin/theme-options.php:377
+msgid "Json decoding failed"
+msgstr "jsonデコードに失敗しました。"
+
+#: admin/theme-options.php:385
+#, php-format
+msgid "Import error. %s"
+msgstr "インポートエラーです。%s"
+
+#: admin/theme-options.php:389
+msgid "Settings imported"
+msgstr "設定をインポートしました"
+
+#: admin/theme-options.php:393
+msgid "Settings reset"
+msgstr "設定をリセットしました"
+
+#: admin/theme-options.php:747 admin/theme-options.php:756 woocommerce/loop/category-sort-filter.php:40
+msgid "Category"
+msgstr "カテゴリー"
+
+#: admin/theme-options.php:872
+msgid "Sample post"
+msgstr "ブログサンプル"
+
+#: admin/theme-options.php:873 admin/theme-options.php:893
+#: admin/theme-options.php:906 admin/theme-options.php:932
+msgid "Sample text. Sample text."
+msgstr "サンプルテキスト。サンプルテキスト。"
+
+#: admin/theme-options.php:892
+msgid "Sample news"
+msgstr "お知らせサンプル"
+
+#: admin/theme-options.php:905 admin/theme-options.php:1066
+#: admin/theme-options.php:1072
+msgid "Sample menu"
+msgstr "サンプルメニュー"
+
+#: admin/theme-options.php:913
+msgid "Genre"
+msgstr "ジャンル"
+
+#: functions/custom_editor.php:39
+msgid "quicktags"
+msgstr "クイックタグ"
+
+#: functions/custom_editor.php:43
+msgid "<div class=\"ytube\">YouTube code here</div>"
+msgstr "<div class=\"ytube\">ここにYouTubeのコードを入力してください</div>"
+
+#: functions/custom_editor.php:46
+msgid "Cardlink"
+msgstr "関連記事カードリンク"
+
+#: functions/custom_editor.php:47
+msgid "[clink url=\"Post URL to display\"]"
+msgstr "[clink url=\"ここに表示させたい記事URL\"]"
+
+#: functions/custom_editor.php:50
+msgid "2 column"
+msgstr "レイアウト2c"
+
+#: functions/custom_editor.php:51
+msgid ""
+"<div class=\"post_row\"><div class=\"post_col post_col-2\">Text and image "
+"tags to display in the left column</div><div class=\"post_col "
+"post_col-2\">Text and image tags to display in the right column</div></div>"
+msgstr ""
+"<div class=\"post_row\"><div class=\"post_col post_col-2\">ここに左カラムに表"
+"示させたい任意のテキストや画像タグを入力します。</div><div class=\"post_col "
+"post_col-2\">ここに右カラムに表示させたい任意のテキストや画像タグを入力しま"
+"す。</div></div>"
+
+#: functions/custom_editor.php:54
+msgid "3 column"
+msgstr "レイアウト3c"
+
+#: functions/custom_editor.php:55
+msgid ""
+"<div class=\"post_row\"><div class=\"post_col post_col-3\">Text and image "
+"tags to display in the left column</div><div class=\"post_col "
+"post_col-3\">Text and image tags to display in the center column</div><div "
+"class=\"post_col post_col-3\">Text and image tags to display in the right "
+"column</div></div>"
+msgstr ""
+"<div class=\"post_row\"><div class=\"post_col post_col-3\">ここに左カラムに表"
+"示させたい任意のテキストや画像タグを入力します。</div><div class=\"post_col "
+"post_col-3\">ここに中央カラムに表示させたい任意のテキストや画像タグを入力しま"
+"す。</div><div class=\"post_col post_col-3\">ここに右カラムに表示させたい任意"
+"のテキストや画像タグを入力してください。</div></div>"
+
+#: functions/custom_editor.php:58
+msgid "Comment out"
+msgstr "コメントアウト"
+
+#: functions/custom_editor.php:59
+msgid "Text entered in this area will not be displayed on the browser"
+msgstr "ここに入力されたコンテンツはブラウザ上には表示されません"
+
+#: functions/custom_editor.php:62
+msgid "Styled h2 tag"
+msgstr "見出しH2"
+
+#: functions/custom_editor.php:63
+msgid "Heading 2"
+msgstr "見出し2"
+
+#: functions/custom_editor.php:66
+msgid "Styled h3 tag"
+msgstr "見出しH3"
+
+#: functions/custom_editor.php:67
+msgid "Heading 3"
+msgstr "見出し3"
+
+#: functions/custom_editor.php:70
+msgid "Styled h4 tag"
+msgstr "見出しH4"
+
+#: functions/custom_editor.php:71
+msgid "Heading 4"
+msgstr "見出し4"
+
+#: functions/custom_editor.php:74
+msgid "Styled h5 tag"
+msgstr "見出しH5"
+
+#: functions/custom_editor.php:75
+msgid "Heading 5"
+msgstr "見出し5"
+
+#: functions/custom_editor.php:78
+msgid "Frame style"
+msgstr "囲み枠"
+
+#: functions/custom_editor.php:79
+msgid "<p class=\"well2\">Frame style</p>"
+msgstr "<p class=\"well2\">囲み枠</p>"
+
+#: functions/custom_editor.php:82
+#, php-format
+msgid "Button %d"
+msgstr "ボタン%d"
+
+#: functions/custom_editor.php:94
+#, php-format
+msgid "Underline %d"
+msgstr "アンダーライン%d"
+
+#: functions/custom_editor.php:107
+msgid "Enter the text in the speech balloon here."
+msgstr "吹き出しの中のテキストをここに入力します。"
+
+#: functions/custom_editor.php:123
+msgid "Enter address here"
+msgstr "ここに住所を入力してください"
+
+#: functions/update_notifier.php:15
+msgid "Theme Update"
+msgstr "テーマ更新"
+
+#: functions/update_notifier.php:39
+msgid "Theme Update Information"
+msgstr "テーマ更新情報"
+
+#: functions/update_notifier.php:41
+#, php-format
+msgid "The latest version of %s is released."
+msgstr "最新版のバージョン%sがリリースされました。"
+
+#: functions/update_notifier.php:41
+#, php-format
+msgid "Current version is %s. You can update to the latest version, %s."
+msgstr ""
+"現在お使いのバージョンは%sです。 最新版のバージョン%sをご利用頂けます。"
+
+#: functions/update_notifier.php:44
+msgid ""
+"Note: Please be sure to backup your theme before you update to the latest "
+"version."
+msgstr ""
+"注意：最新版のテーマへアップデートする前に、必ず旧テーマファイルのバックアッ"
+"プを行ってください。"
+
+#: functions/update_notifier.php:45
+msgid "Download the latest theme from My Page"
+msgstr "マイページから最新版のテーマをダウンロードする"
+
+#: functions/update_notifier.php:45
+msgid ""
+"Click <a href=\"https://tcd-theme.com/2017/01/theme_update.html\" rel="
+"\"noopener\" target=\"_blank\">here</a> to find out how to update the theme."
+msgstr ""
+"アップデートの方法を知りたい場合は、<a href=\"https://tcd-theme.com/2017/01/"
+"theme_update.html\" rel=\"noopener\" target=\"_blank\">こちら</a>をクリックし"
+"てください。"
+
+#: functions/update_notifier.php:47
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: functions/single-cta.php:19 functions/footer-cta.php:20
+msgid "Are you sure to reset these values?"
+msgstr "これらの値をリセットしてもよろしいでしょうか？"
+
+#: functions/page_cf.php:86
+msgid "Page setting"
+msgstr "ページの設定"
+
+#: functions/page_cf.php:147
+msgid ""
+"Please use the option below if you want to make this page like Landing page."
+msgstr ""
+"LP仕様に近づける為、ヘッダーやフッターを表示したくない方はチェックを入れてく"
+"ださい。"
+
+#: functions/page_cf.php:152 functions.php:494
+msgid "Global menu"
+msgstr "グローバルメニュー"
+
+#: functions/page_cf.php:171
+msgid "Header type"
+msgstr "ヘッダーのタイプ"
+
+#: functions/page_cf.php:179
+msgid "Please select a header type from the list below."
+msgstr "下記よりヘッダーのタイプをお選びください。"
+
+#: functions/page_cf.php:237
+msgid "FAQ setting"
+msgstr "FAQの設定"
+
+#: functions/page_cf.php:241
+msgid "Please copy and paste the short code below where you want to display FAQ list."
+msgstr "FAQ一覧を表示したい場所に、以下のショートコードをコピーアンドペーストしてください。"
+
+#: functions/page_cf.php:244
+msgid "Short code"
+msgstr "ショートコード"
+
+#: functions/page_cf.php:248
+msgid "FAQ list"
+msgstr "FAQ一覧"
+
+#: functions/page_cf.php:259 functions/page_cf.php:275
+msgid "Question"
+msgstr "質問"
+
+#: functions/page_cf.php:261 functions/page_cf.php:277
+msgid "Answer"
+msgstr "回答"
+
+#: functions/seo.php:35
+#, php-format
+msgid "Recommended number of characters is %s."
+msgstr "推奨文字数は%s文字です。"
+
+#: functions/seo.php:129 functions/seo.php:293
+#, php-format
+msgid "Post list for %s"
+msgstr "%sに関する記事一覧"
+
+#: functions/single_parts.php:10
+msgid "COPIED Title&amp;URL"
+msgstr "記事のタイトルとURLをコピーしました"
+
+#: functions/single_parts.php:10
+msgid "COPY Title&amp;URL"
+msgstr "この記事のタイトルとURLをコピーする"
+
+#: functions/single-parts.php:32
+msgid "Previous post"
+msgstr "前の記事"
+
+#: functions/single-parts.php:36
+msgid "Next post"
+msgstr "次の記事"
+
+#: functions/seo.php:159 functions/seo.php:165
+#, php-format
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: functions/user-profile.php:6
+msgid "Additional user data"
+msgstr "ユーザーの追加情報"
+
+#: functions/user-profile.php:15
+msgid "Show author profile at single page"
+msgstr "この投稿者のプロフィールを記事詳細ページで表示する"
+
+#: functions/user-profile.php:17
+msgid "Show"
+msgstr "表示する"
+
+#: functions/user-profile.php:45
+msgid "Contact page URL<br>(You can use mailto:)"
+msgstr "お問い合わせページのURL（mailto:も利用可）"
+
+#: functions/user-profile.php:27 functions/woocommerce.php:721
+#: functions/woocommerce.php:723 woocommerce/myaccount/profile-image.php:9
+msgid "Profile image"
+msgstr "プロフィール画像"
+
+#: template-parts/archive-header.php:39 template-parts/archive-header.php:43
+#: template-parts/archive-header.php:47 template-parts/archive-header.php:51
+#: template-parts/breadcrumb.php:67 template-parts/breadcrumb.php:84 template-parts/breadcrumb.php:86
+#: funcitons/seo.php:141 funcitons/seo.php:144 funcitons/seo.php:146
+#, php-format
+msgid "Archive for %s"
+msgstr "%sの記事一覧"
+
+#: template-parts/archive-header.php:39 template-parts/breadcrumb.php:82
+#: funcitons/seo.php:142
+msgid "F jS, Y"
+msgstr "Y年 Fj日"
+
+#: template-parts/archive-header.php:43 template-parts/breadcrumb.php:84
+#: funcitons/seo.php:144
+msgid "F, Y"
+msgstr "Y年 F"
+
+#: template-parts/archive-header.php:47 template-parts/breadcrumb.php:86
+#: funcitons/seo.php:146
+msgid "Y"
+msgstr "Y年"
+
+#: template-parts/archive-header.php:56 funcitons/seo.php:135
+#, php-format
+msgid "Search result for %s"
+msgstr "%sの検索結果"
+
+#: template-parts/archive-header.php:34
+#, php-format
+msgid "Product list for %s"
+msgstr "%sの商品一覧"
+
+#: template-parts/archive-header.php:58 template-parts/breadcrumb.php:67
+msgid "Search result"
+msgstr "検索結果"
+
+#: page-lp.php:5
+msgid "Landing Page"
+msgstr "ランディングページ"
+
+#: comments.php:10
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:14
+msgid "Comments"
+msgstr "コメント"
+
+#: comments.php:15
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#: comments.php:43
+msgid "There are no comment yet."
+msgstr "この記事へのコメントはありません。"
+
+#: comments.php:55 comments.php:76
+msgid "TRACKBACK URL"
+msgstr "トラックバックURL"
+
+#: comments.php:80
+msgid "There are no trackback yet."
+msgstr "この記事へのトラックバックはありません。"
+
+#: comments.php:99
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a> としてログイン中。"
+
+#: comments.php:99
+msgid "Log out of this account"
+msgstr "ログアウトする。"
+
+#: comments.php:99
+msgid "Log out"
+msgstr "ログアウト"
+
+#: comments.php:105
+msgid "NAME"
+msgstr "名前（例：山田 太郎）"
+
+#: comments.php:105 comments.php:106
+msgid "( required )"
+msgstr "( 必須 )"
+
+#: comments.php:106
+msgid "E-MAIL"
+msgstr "E-MAIL"
+
+#: comments.php:106
+msgid "- will not be published -"
+msgstr "- 公開されません -"
+
+#: comments.php:118
+msgid "Submit Comment"
+msgstr "コメントを書く"
+
+#: widget/widget.php:41
+msgid "Common widget"
+msgstr "基本ウィジェット"
+
+#: widget/widget.php:42 widget/widget.php:51
+msgid ""
+"Widgets set in this area are displayed as basic widget in the sidebar of all "
+"pages. If there are individual settings, the widget will be displayed."
+msgstr ""
+"このウィジェットエリアに設定したウィジェットは「基本ウィジェット」としてウィ"
+"ジェットエリアに表示されます。ページ別のウィジェットエリア（例：「ブログペー"
+"ジ」「お知らせページ」等）に 個別にウィジェットを設定した場合はそちらが優先さ"
+"れます。"
+
+#: widget/widget.php:50
+msgid "Common widget (smarphone)"
+msgstr "基本ウィジェット（スマホ用）"
+
+#: widget/widget.php:59
+msgid "Blog page"
+msgstr "ブログページ"
+
+#: widget/widget.php:67
+msgid "Blog page (smartphone)"
+msgstr "ブログページ（スマホ用）"
+
+#: widget/widget.php:68 widget/widget.php:85 widget/widget.php:102
+msgid ""
+"This widget will be replaced with normal widget when a user accesses the "
+"site by smartphone."
+msgstr ""
+"このウィジェットは、ユーザーがスマートフォンを使ってサイトにアクセスした時"
+"に、他のウィジェットと置き換わって表示されます。"
+
+#: widget/widget.php:76
+#, php-format
+msgid "%s page"
+msgstr "%sページ"
+
+#: widget/widget.php:84
+#, php-format
+msgid "%s page (smartphone)"
+msgstr "%sページ（スマホ用）"
+
+#: widget/widget.php:93
+msgid "WP Page"
+msgstr "固定ページ"
+
+#: widget/widget.php:101
+msgid "WP Page (smartphone)"
+msgstr "固定ページ（スマホ用）"
+
+#: widget/banner.php:8
+msgid "Banner (tcd ver)"
+msgstr "【TCD】バナー"
+
+#: widget/banner.php:11
+msgid "Display designed banner."
+msgstr "デザインされたバナーを表示します。"
+
+#: widget/banner.php:125
+msgid "Use overlay"
+msgstr "オーバーレイを使う"
+
+#: widget/post-slider.php:9
+msgid "Post slider (tcd ver)"
+msgstr "【TCD】記事スライダー"
+
+#: widget/post_slider.php:12
+msgid "Display post slider."
+msgstr "記事スライダーを表示します。"
+
+#: widget/post_slider.php:122 widget/styled-post-list.php:111
+msgid "Number of post"
+msgstr "記事の数"
+
+#: widget/post_slider.php:122 widget/styled-post-list.php:127
+msgid "Post date"
+msgstr "日付"
+
+#: widget/styled-post-list.php:8
+msgid "Styled post list (tcd ver)"
+msgstr "【TCD】デザインされた記事一覧"
+
+#: widget/styled-post-list.php:11
+msgid "Displays styled post list."
+msgstr "デザインされた記事一覧を表示します。"
+
+#: widget/styled-post-list.php:94
+msgid "Recent post"
+msgstr "新着記事"
+
+#: index.php:23 author.php:65 archive-news.php:57 search.php:30
+#: widget/styled-post-list.php:72
+msgid "There is no registered post."
+msgstr "登録されている記事はございません。"
+
+#: search.php:15
+msgid "Please enter search keyword."
+msgstr "検索キーワードを入力してください。"
+
+#: template-parts/breadcrumb.php:13
+msgid "Home"
+msgstr "ホーム"
+
+#: woocommerce/myaccount/dashboard.php:25
+msgid "Account information"
+msgstr "アカウント情報"
+
+#: woocommerce/myaccount/dashboard.php:31 woocommerce/single-product-reviews.php:116
+msgid "Name"
+msgstr "名前"
+
+#: woocommerce/myaccount/dashboard.php:41
+msgid "Display name"
+msgstr "表示名"
+
+#: woocommerce/myaccount/dashboard.php:45
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr "アカウントセクションとレビューではこちらの表示名が表示されます"
+
+#: woocommerce/myaccount/form-edit-account.php:93
+msgid "Are you sure you want to delete account?"
+msgstr "アカウントを削除してもよろしいですか？"
+
+#: woocommerce/myaccount/form-login.php:32 wc/header-login.php:43
+msgid "Login"
+msgstr "ログイン"
+
+#: woocommerce/myaccount/form-login.php:72 woocommerce/myaccount/form-login.php:107
+#: wc/header-login.php:94
+msgid "Registration"
+msgstr "新規会員登録"
+
+#: woocommerce/myaccount/my-orders.php:37 woocommerce/myaccount/orders.php:25
+msgid "Recent orders"
+msgstr "最近の注文"
+
+#: woocommerce/myaccount/my-orders.php:14
+#: woocommerce/order/form-tracking.php:27
+msgid "Order ID"
+msgstr "注文番号"
+
+#: woocommerce/loop/category-sort-filter.php:86
+msgid "In stock"
+msgstr "在庫あり"
+
+#: woocommerce/loop/category-sort-filter.php:87
+msgid "All"
+msgstr "すべて"
+
+#: woocommerce/single-product-reviews.php:319
+msgid "Add a review"
+msgstr "レビューを投稿する"
+
+#: woocommerce/single-product-reviews.php:103 admin/inc/product.php:100
+msgid "Want to write a review?"
+msgstr "レビューを投稿してみませんか？"
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Submit review"
+msgstr "レビューを投稿する"
+
+#: woocommerce/single-product-reviews.php:136
+msgid "Email"
+msgstr "メールアドレス"
+
+#: woocommerce/single-product-reviews.php:183
+msgid "Your review"
+msgstr "レビュー内容"
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Your email address will not be published."
+msgstr "メールアドレスは公開されません。"
+
+#: woocommerce/single-product-reviews.php:125
+msgid "All fields are required."
+msgstr "すべて必須項目です。"
+
+#: woocommerce/single-product-reviews.php:167
+msgid "Your rating"
+msgstr "評価する"
+
+#: woocommerce/single-product-reviews.php:161 admin/inc/product.php:101
+msgid "You must be a registered member to post a review."
+msgstr "レビューを投稿するには、会員登録が必要です。"
+
+#: woocommerce/single-product-reviews.php:161 admin/inc/product.php:102
+msgid "Write a review"
+msgstr "レビューを書く"
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU: "
+msgstr "SKU："
+
+#: woocommerce/single-product/meta.php:34
+msgid "Category: "
+msgstr "カテゴリー："
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag: "
+msgstr "タグ："
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "A password will be sent to your email address."
+msgstr "お使いのメールアドレス宛てにパスワードが送信されます。"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by"
+msgstr "並び順"
+
+#: wc/woocommerce.php:873
+msgid "View cart"
+msgstr "カートを見る"
+
+#: wc/woocommerce.php:880
+msgid "Checkout"
+msgstr "レジに進む"
+
+#: wc/woocommerce.php:593
+msgid "SOLD OUT"
+msgstr "在庫切れ"
+
+#: wc/woocommerce.php:597
+msgid "Buy product"
+msgstr "購入する"
+
+#: wc/woocommerce.php:598 wc/woocommerce.php:600 wc/woocommerce.php:601
+msgid "View products"
+msgstr "商品を見る"
+
+#: wc/woocommerce.php:599
+msgid "Add to cart"
+msgstr "カートに入れる"
+
+#: wc/header-login.php:16
+#, php-format
+msgid "Hello %s"
+msgstr "ようこそ %sさん"
+
+#: wc/header-login.php:18
+msgid "Logout"
+msgstr "ログアウト"
+
+#: wc/header-login.php:34
+msgid "Password"
+msgstr "パスワード"
+
+#: wc/header-login.php:37
+msgid "Remember me"
+msgstr "ログイン状態を保存"
+
+#: wc/header-login.php:45
+msgid "Lost your password?"
+msgstr "パスワードを忘れた場合"
+
+#: footer.php:179
+msgid "Login / Registration"
+msgstr "ログイン・会員登録"
+
+#: wc/ankle.php:228 admin/inc/product.php:245
+msgid "Sort order"
+msgstr "並び順"
+
+#: wc/ankle.php:229 admin/inc/product.php:246 admin/inc/product.php:256 admin/inc/front_page.php:638
+msgid "Latest"
+msgstr "新着順"
+
+#: wc/ankle.php:230 admin/inc/product.php:247 admin/inc/product.php:257 admin/inc/front_page.php:639
+msgid "Popularity"
+msgstr "人気順"
+
+#: wc/ankle.php:231 admin/inc/product.php:256 admin/inc/product.php:258
+msgid "Rating"
+msgstr "レビューの高い順"
+
+#: wc/ankle.php:232 admin/inc/product.php:259
+msgid "Price: Low to High"
+msgstr "価格が安い順"
+
+#: wc/ankle.php:233 admin/inc/product.php:260
+msgid "Price: High to Low"
+msgstr "価格が高い順"
+
+#: wc/ankle.php:19
+msgid "Error was occurred. Please retry again."
+msgstr "エラーが発生しました。もう一度お試しください。"
+
+#: wc/woocommerce.php:593
+msgid "Delete account error: You have some incomplete orders."
+msgstr "未完了の注文が存在するためアカウント削除は中断されました。"
+
+#: wc/woocommerce.php:615
+msgid "Your account was deleted successfully."
+msgstr "アカウントが削除されました。"
+
+#: wc/woocommerce.php:174
+msgid "Mypage"
+msgstr "マイページ"
+
+#: wc/ankle.php:553
+msgid " - Displayed below the price"
+msgstr "（価格の下部に表示されます）"
+
+#: wc/woocommerce-cf.php:34
+msgid "Tab label"
+msgstr "タブラベル"
+
+#: wc/woocommerce-cf.php:35
+msgid "The Description tab can be used to display any content using the Classic Editor.</br>If the editor is empty, it will not be displayed."
+msgstr "説明タブは、クラシックエディターを使って任意のコンテンツを表示できます。</br>エディターの中身が空の場合は表示されません。"
+
+#: wc/woocommerce-cf.php:46
+msgid "The Additional Information tab displays the data set in Product Data > Attributes in a tabular format.</br>It will not be displayed if the custom product attribute does not exist."
+msgstr "追加情報タブは、商品データ > 属性で設定したデータを表形式で表示します。</br>カスタム商品属性が存在しない場合は表示されません。"
+
+#: wc/woocommerce-cf.php:46
+msgid "The Reviews tab displays a list of reviews posted by users.</br>It appears when you go to Product Data > Advanced Settings > Enable Reviews."
+msgstr "レビュータブは、ユーザーが投稿したレビューを一覧で表示します。</br>商品データ > 高度な設定 > レビューを有効化にすると表示されます。"
+
+#: wc/woocommerce-cf.php:114 wc/woocommerce-cf.php:128
+msgid "It will be displayed under the title of the product category page."
+msgstr "商品カテゴリーページのタイトル下に表示されます。"
+
+#: wc/class-wc-email-customer-delete-account.php:47
+#: woocommerce/myaccount/form-edit-account.php:96
+msgid "Delete account"
+msgstr "アカウント削除"
+
+#: wc/class-wc-email-customer-delete-account.php:48
+msgid ""
+"Customer \"delete account\" emails are sent to the customer when click the "
+"delete account via edit account page."
+msgstr ""
+"アカウント削除の案内メールはアカウント編集ページのアカウント削除をクリックし"
+"た際にお客様に送られます。"
+
+#: wc/class-wc-email-customer-delete-account.php:63
+#: wc/class-wc-email-customer-delete-account.php:73
+msgid "Your {site_title} account has been deleted."
+msgstr "{site_title} アカウントが削除されました。"
+
+#: wc/class-wc-email-customer-delete-account.php:146
+msgid "We hope to see you again."
+msgstr "またのご利用をお待ちしております。"
+
+#: wc/class-wc-email-customer-delete-account.php:161
+msgid "Return to emails"
+msgstr "メール設定に戻る"
+
+#: wc/class-wc-email-customer-delete-account.php:194
+msgid "HTML template"
+msgstr "HTML テンプレート"
+
+#: wc/class-wc-email-customer-delete-account.php:195
+msgid "Plain text template"
+msgstr "テキストメールテンプレート"
+
+#: wc/class-wc-email-customer-delete-account.php:228
+msgid "File was not found."
+msgstr "ファイルが見つかりませんでした"
+
+#: wc/class-wc-email-customer-delete-account.php:252
+msgid "View template"
+msgstr "テンプレートを表示"
+
+#: wc/class-wc-email-customer-delete-account.php:253
+msgid "Hide template"
+msgstr "テンプレートを隠す"
+
+#: wc/class-wc-email-customer-delete-account.php:264
+msgid "Are you sure you want to delete this template file?"
+msgstr "このテンプレートファイルを削除してもよいですか ?"
+
+#: wc/like.php:19 wc/like.php:38 wc/like.php:126
+#: wc/like.php:145 wc/like.php:186 wc/like.php:205
+msgid "Invalid request."
+msgstr "不正なリクエストです。"
+
+#: wc/like.php:40 wc/like.php:147 wc/like.php:207
+msgid "Invalid post id."
+msgstr "不正な記事IDです。"
+
+#: wc/like.php:42 wc/like.php:44 wc/like.php:149
+#: wc/like.php:151 wc/like.php:209 wc/like.php:211
+#, php-format
+msgid "Disable like in %s."
+msgstr "%sのいいねは出来ません。"
+
+#: wc/like.php:42 wc/like.php:149 wc/like.php:209
+msgid "Not publish article"
+msgstr "未公開記事"
+
+#: wc/like.php:52
+#, php-format
+msgid "Removed from %s"
+msgstr "%sから削除しました"
+
+#: wc/like.php:75 wc/like.php:222 wc/like.php:385
+#: wc/like.php:387
+msgid "Remove like error: "
+msgstr "お気に入り削除エラー："
+
+#: wc/like.php:75 wc/like.php:104 wc/like.php:166
+#: wc/like.php:222
+msgid "Failed to save the database."
+msgstr "データベースの保存に失敗しました。"
+
+#: wc/like.php:83
+#, php-format
+msgid "Added to %s"
+msgstr "%sに追加しました"
+
+#: wc/like.php:104 wc/like.php:166 wc/like.php:316
+#: wc/like.php:318
+msgid "Add like error: "
+msgstr "お気に入り追加エラー："
+
+#: wc/like.php:227
+msgid "You don't like this product."
+msgstr "この商品はお気に入りされていません。"
+
+#: wc/like.php:316 wc/like.php:385
+msgid "Failed to update user meta."
+msgstr "ユーザーメタの更新に失敗しました。"
+
+#: wc/like.php:318 wc/like.php:387
+msgid "Failed to save cookie."
+msgstr "クッキーの保存に失敗しました。"
